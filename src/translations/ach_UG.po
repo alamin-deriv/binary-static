@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-03-25 03:22\n"
+"PO-Revision-Date: 2021-06-09 03:49\n"
 "Last-Translator: \n"
 "Language-Team: Acholi\n"
 "MIME-Version: 1.0\n"
@@ -25,20 +25,20 @@ msgstr "crwdns66626:0crwdne66626:0"
 msgid "5"
 msgstr "crwdns66632:0crwdne66632:0"
 
-msgid "10"
-msgstr "crwdns66634:0crwdne66634:0"
+msgid "20"
+msgstr "crwdns161538:0crwdne161538:0"
 
-msgid "40"
-msgstr "crwdns159324:0crwdne159324:0"
+msgid "25"
+msgstr "crwdns161540:0crwdne161540:0"
 
-msgid "50"
-msgstr "crwdns159326:0crwdne159326:0"
+msgid "150"
+msgstr "crwdns161542:0crwdne161542:0"
+
+msgid "250"
+msgstr "crwdns161544:0crwdne161544:0"
 
 msgid "404"
 msgstr "crwdns41400:0crwdne41400:0"
-
-msgid "500"
-msgstr "crwdns159328:0crwdne159328:0"
 
 msgid " (Region added)"
 msgstr "crwdns160148:0crwdne160148:0"
@@ -111,9 +111,6 @@ msgstr "crwdns66722:0%1crwdnd66722:0%1crwdne66722:0"
 
 msgid "\"Third-party Provider(s)\" means the third party (non-affiliated) entity that makes available features and functions through use of the %1 API."
 msgstr "crwdns53986:0%1crwdne53986:0"
-
-msgid "$ per 100,000 USD of turnover"
-msgstr "crwdns89798:0crwdne89798:0"
 
 msgid "$0 - $20,000"
 msgstr "crwdns68424:0crwdne68424:0"
@@ -267,9 +264,6 @@ msgstr "crwdns84717:0%1crwdne84717:0"
 
 msgid "%1 is owned and operated by the Deriv Group Ltd. group of companies. For more information, %2visit our history page%3."
 msgstr "crwdns118200:0%1crwdnd118200:0%2crwdnd118200:0%3crwdne118200:0"
-
-msgid "%1 is rebranding to Deriv.com"
-msgstr "crwdns118174:0%1crwdne118174:0"
 
 msgid "%1 is the award-winning industry pioneer in online options trading. We boast:"
 msgstr "crwdns37493:0%1crwdne37493:0"
@@ -442,11 +436,14 @@ msgstr "crwdns37542:0%1crwdne37542:0"
 msgid "%124/7 customer support%2 to enhance your trading experience"
 msgstr "crwdns120900:0%12crwdnd120900:0%2crwdne120900:0"
 
-msgid "%1Choose a currency%2 for your fiat currency account:"
-msgstr "crwdns159004:0%1Ccrwdnd159004:0%2crwdne159004:0"
-
 msgid "%1Contact us%2 to arrange a date and time for the video call."
 msgstr "crwdns37544:0%1Ccrwdnd37544:0%2crwdne37544:0"
+
+msgid "%1Deriv-Demo%2 if your signal is for demo accounts only."
+msgstr "crwdns161116:0%1crwdnd161116:0%2crwdne161116:0"
+
+msgid "%1Deriv-Server%2 or %1Deriv-Server-02%2 if your signals is for real accounts only."
+msgstr "crwdns161118:0%1crwdnd161118:0%2crwdnd161118:0%1crwdnd161118:0%2crwdne161118:0"
 
 msgid "%1Founded%2 October 1999"
 msgstr "crwdns52662:0%1Fcrwdnd52662:0%2crwdne52662:0"
@@ -460,14 +457,23 @@ msgstr "crwdns53230:0%1crwdnd53230:0%2crwdne53230:0"
 msgid "%1No, change my fiat account's currency now%2"
 msgstr "crwdns53232:0%1crwdnd53232:0%2crwdne53232:0"
 
-msgid "%1Note%2: These limits are only applicable to your %3 real account. To set limits, switch to the respective account and set your limits accordingly."
-msgstr "crwdns159006:0%1crwdnd159006:0%2crwdnd159006:0%3crwdne159006:0"
+msgid "%1Note:%2 For a wider selection of signal providers, go to %3MQL5 showcase page%4 and search for Deriv under the Broker server field."
+msgstr "crwdns161120:0%1crwdnd161120:0%2crwdnd161120:0%3crwdnd161120:0%4crwdne161120:0"
+
+msgid "%1Note:%2 You need to upgrade your MQL5 account to seller status to be able to add a signal. If you’ve not upgraded yet, follow the steps on this page to register as a seller."
+msgstr "crwdns161122:0%1crwdnd161122:0%2crwdne161122:0"
 
 msgid "%1Please note that if you live in the United Kingdom, self-exclusion cannot be removed until its period has expired. %2If you wish to resume trading after your self-exclusion period is over, please make your request by calling %3. Requests by chat or email shall not be entertained."
 msgstr "crwdns157614:0%1crwdnd157614:0%2crwdnd157614:0%3crwdne157614:0"
 
+msgid "%1Please note%2: Commission payout for all assets will be converted to your deposit currency based on the latest exchange rate."
+msgstr "crwdns161546:0%1crwdnd161546:0%2crwdne161546:0"
+
 msgid "%1Return to trading page%2"
 msgstr "crwdns53298:0%1crwdnd53298:0%2crwdne53298:0"
+
+msgid "%1Use MetaTrader %2Economic Calendar"
+msgstr "crwdns161548:0%1crwdnd161548:0%2Ecrwdne161548:0"
 
 msgid "%1’s refusal to pay bribes is an essential part of our ethical commitment. Similarly, we do not permit our business partners to pay bribes when acting on our behalf."
 msgstr "crwdns84723:0%1crwdne84723:0"
@@ -490,11 +496,20 @@ msgstr "crwdns37551:0crwdne37551:0"
 msgid "'Financial Trading Operator of the Year' award by eGaming Review"
 msgstr "crwdns56664:0crwdne56664:0"
 
+msgid "(1 standard forex lot is 100k units)"
+msgstr "crwdns161550:0crwdne161550:0"
+
+msgid "(1 standard lot is 100k units)"
+msgstr "crwdns161552:0crwdne161552:0"
+
 msgid "(One) Touch trades"
 msgstr "crwdns37553:0crwdne37553:0"
 
 msgid "(This limit may vary depending on current exchange rates.)"
 msgstr "crwdns53118:0crwdne53118:0"
+
+msgid "(You can find the account server name on your %1MT5 dashboard%2)."
+msgstr "crwdns161124:0%1crwdnd161124:0%2crwdne161124:0"
 
 msgid "(a) Price and cost"
 msgstr "crwdns51448:0crwdne51448:0"
@@ -538,8 +553,14 @@ msgstr "crwdns37558:0crwdne37558:0"
 msgid "0-5 transactions in the past 12 months"
 msgstr "crwdns37559:0crwdne37559:0"
 
-msgid "0.20"
-msgstr "crwdns66646:0crwdne66646:0"
+msgid "0.10"
+msgstr "crwdns161554:0crwdne161554:0"
+
+msgid "0.25"
+msgstr "crwdns161556:0crwdne161556:0"
+
+msgid "0.35"
+msgstr "crwdns161558:0crwdne161558:0"
 
 msgid "0.4%"
 msgstr "crwdns87360:0crwdne87360:0"
@@ -547,11 +568,8 @@ msgstr "crwdns87360:0crwdne87360:0"
 msgid "0.5%"
 msgstr "crwdns66698:0crwdne66698:0"
 
-msgid "0.50"
-msgstr "crwdns121660:0crwdne121660:0"
-
-msgid "0.70"
-msgstr "crwdns121662:0crwdne121662:0"
+msgid "0.75"
+msgstr "crwdns161560:0crwdne161560:0"
 
 msgid "0.75%"
 msgstr "crwdns66652:0crwdne66652:0"
@@ -574,23 +592,17 @@ msgstr "crwdns158262:0crwdne158262:0"
 msgid "1.5%"
 msgstr "crwdns87362:0crwdne87362:0"
 
-msgid "1.50"
-msgstr "crwdns66658:0crwdne66658:0"
-
-msgid "10 USD x 1 lot x 125,000 USD/100,000 = 12.5 USD"
-msgstr "crwdns89806:0crwdne89806:0"
-
-msgid "10.00"
-msgstr "crwdns66660:0crwdne66660:0"
+msgid "1.75"
+msgstr "crwdns161562:0crwdne161562:0"
 
 msgid "11-39 transactions in the past 12 months"
 msgstr "crwdns52608:0crwdne52608:0"
 
-msgid "15.00"
-msgstr "crwdns66662:0crwdne66662:0"
-
 msgid "150+"
 msgstr "crwdns66504:0crwdne66504:0"
+
+msgid "15O"
+msgstr "crwdns161564:0crwdne161564:0"
 
 msgid "16th MENA Financial Forum & Expo"
 msgstr "crwdns51422:0crwdne51422:0"
@@ -610,14 +622,17 @@ msgstr "crwdns68434:0crwdne68434:0"
 msgid "2. Your desktop window stays open"
 msgstr "crwdns158264:0crwdne158264:0"
 
+msgid "2.5"
+msgstr "crwdns161566:0crwdne161566:0"
+
 msgid "20 – 39.999%"
 msgstr "crwdns66664:0crwdne66664:0"
 
 msgid "2021 Binary | All rights reserved"
 msgstr "crwdns158974:0crwdne158974:0"
 
-msgid "3.50"
-msgstr "crwdns66670:0crwdne66670:0"
+msgid "3.75"
+msgstr "crwdns161568:0crwdne161568:0"
 
 msgid "30%"
 msgstr "crwdns66672:0crwdne66672:0"
@@ -642,6 +657,9 @@ msgstr "crwdns66508:0crwdne66508:0"
 
 msgid "45%"
 msgstr "crwdns68428:0crwdne68428:0"
+
+msgid "5.00"
+msgstr "crwdns161570:0crwdne161570:0"
 
 msgid "6-10 transactions in the past 12 months"
 msgstr "crwdns37578:0crwdne37578:0"
@@ -745,6 +763,15 @@ msgstr "crwdns43848:0crwdne43848:0"
 msgid "A corporate action can include but is not limited to assimilation, acquisition, bankruptcy, bonus issue, bonus rights, cash dividend, class action, delisting, de-merger, general announcement, initial public offering (IPO), liquidation, merger, change in par value, scheme of arrangement, stock dividend, stock split, return of capital, and reverse stock split."
 msgstr "crwdns158140:0crwdne158140:0"
 
+msgid "A deal for 1 lot of BTC/USD (with a BTC to USD exchange rate of USD 50,000) per USD 100,000 turnover will pay out a commission of USD 10. The minimum volume required to receive the minimum commission of USD 0.01 is determined using the following formula:"
+msgstr "crwdns161572:0crwdne161572:0"
+
+msgid "A deal for 1 lot of the Volatility 75 Index for a price of USD 500,000 will pay out USD 25 in commission based on the following formula:"
+msgstr "crwdns161574:0crwdne161574:0"
+
+msgid "A deal for 1 lot of the Volatility Index 75 for a price of USD 500,000 per USD 100,000 turnover will pay out a commission of USD 5. The minimum volume required to receive the minimum commission of USD 0.01 is determined using the following formula:"
+msgstr "crwdns161576:0crwdne161576:0"
+
 msgid "A derivative is a financial instrument whose value is determined by reference to an underlying market. Derivatives are commonly traded in the inter-bank market, and binaries are one of the simplest forms of derivatives."
 msgstr "crwdns37611:0crwdne37611:0"
 
@@ -828,6 +855,9 @@ msgstr "crwdns37626:0crwdne37626:0"
 
 msgid "A trade is opened by either executing a \"Buy\" or a \"Sell\" Order based on a specified number of lots (volume) that constitute the Underlying Instrument of the relevant market."
 msgstr "crwdns54042:0crwdne54042:0"
+
+msgid "A trading password is used to sign in to any of your MT5 accounts when using MT5 apps on your mobile or other devices. "
+msgstr "crwdns162124:0crwdne162124:0"
 
 msgid "A university degree in Accounting/Finance or its equivalent"
 msgstr "crwdns51674:0crwdne51674:0"
@@ -961,9 +991,6 @@ msgstr "crwdns54054:0crwdne54054:0"
 msgid "Access to the client's personal data is strictly prohibited, with the exception of key %1 personnel and only as needed for the performance of their duties."
 msgstr "crwdns54056:0%1crwdne54056:0"
 
-msgid "Access your account with full trading permission."
-msgstr "crwdns159450:0crwdne159450:0"
-
 msgid "Accomplished writing and editing skills with at least five years editorial experience in digital advertising or online media"
 msgstr "crwdns51702:0crwdne51702:0"
 
@@ -981,6 +1008,9 @@ msgstr "crwdns45895:0crwdne45895:0"
 
 msgid "Account Closure"
 msgstr "crwdns85223:0crwdne85223:0"
+
+msgid "Account Deactivated"
+msgstr "crwdns163208:0crwdne163208:0"
 
 msgid "Account Deposit Currency"
 msgstr "crwdns46002:0crwdne46002:0"
@@ -1102,6 +1132,12 @@ msgstr "crwdns41739:0crwdne41739:0"
 msgid "Add +/– to define a barrier offset. For example, +0.005 means a barrier that's 0.005 higher than the entry spot."
 msgstr "crwdns45174:0crwdne45174:0"
 
+msgid "Add a description and click %1Save%2 to complete the registration."
+msgstr "crwdns161126:0%1Scrwdnd161126:0%2crwdne161126:0"
+
+msgid "Add account"
+msgstr "crwdns162126:0crwdne162126:0"
+
 msgid "Add another word or two. Uncommon words are better."
 msgstr "crwdns160066:0crwdne160066:0"
 
@@ -1110,6 +1146,9 @@ msgstr "crwdns43127:0crwdne43127:0"
 
 msgid "Additional business exposure:"
 msgstr "crwdns37695:0crwdne37695:0"
+
+msgid "Additional income stream from monthly subscriptions."
+msgstr "crwdns161128:0crwdne161128:0"
 
 msgid "Additional processing time may be required by your bank or money transfer services for the funds to be credited to your payment account."
 msgstr "crwdns85225:0crwdne85225:0"
@@ -1546,6 +1585,9 @@ msgstr "crwdns37786:0crwdne37786:0"
 msgid "Appropriateness test"
 msgstr "crwdns54164:0crwdne54164:0"
 
+msgid "Apps you have linked to this password:"
+msgstr "crwdns162128:0crwdne162128:0"
+
 msgid "Apr"
 msgstr "crwdns37788:0crwdne37788:0"
 
@@ -1575,6 +1617,9 @@ msgstr "crwdns53236:0%1crwdne53236:0"
 
 msgid "Are you sure you want to deposit in %1?"
 msgstr "crwdns68502:0%1crwdne68502:0"
+
+msgid "Are you sure you want to unlink from %1?"
+msgstr "crwdns162130:0%1crwdne162130:0"
 
 msgid "Are you sure?"
 msgstr "crwdns52724:0crwdne52724:0"
@@ -1849,6 +1894,9 @@ msgstr "crwdns37838:0crwdne37838:0"
 msgid "Automate your trading strategies with our simple, \"drag-and-drop\" bot creation tool."
 msgstr "crwdns37839:0crwdne37839:0"
 
+msgid "Automated copying – no extra work from you."
+msgstr "crwdns161130:0crwdne161130:0"
+
 msgid "Automated decision-making"
 msgstr "crwdns118202:0crwdne118202:0"
 
@@ -1917,6 +1965,12 @@ msgstr "crwdns159334:0crwdne159334:0"
 
 msgid "BTC"
 msgstr "crwdns42026:0crwdne42026:0"
+
+msgid "BTC/ETH"
+msgstr "crwdns161578:0crwdne161578:0"
+
+msgid "BTC/LTC"
+msgstr "crwdns161580:0crwdne161580:0"
 
 msgid "BTC/USD"
 msgstr "crwdns159336:0crwdne159336:0"
@@ -2011,8 +2065,14 @@ msgstr "crwdns66516:0crwdne66516:0"
 msgid "Before the Company opens an account for the client in which the client can trade or invest in Investment Products with DIEL, the Company is required to make an assessment of whether products or services that the client has chosen are appropriate for the client and to warn the client if, on the basis of the information that the client has provided to the Company, any such product or service is deemed not appropriate for the client. Any decision to open an account and to use the Company's products or services is the client's. It is the client's responsibility to understand the risks involved with the Company's products or services."
 msgstr "crwdns121930:0crwdne121930:0"
 
+msgid "Before uploading your document, please ensure that your %1personal details%2 are updated to match your proof of identity. This will help to avoid delays during the verification process."
+msgstr "crwdns161582:0%1pcrwdnd161582:0%2crwdne161582:0"
+
 msgid "Before using the trading robots or Expert Advisors and forward trade, the client should test it on a demo account."
 msgstr "crwdns56184:0crwdne56184:0"
+
+msgid "Before you deactivate your account, you need to do the following:"
+msgstr "crwdns162514:0crwdne162514:0"
 
 msgid "Beginner"
 msgstr "crwdns50426:0crwdne50426:0"
@@ -2023,8 +2083,14 @@ msgstr "crwdns53042:0crwdne53042:0"
 msgid "Benefits"
 msgstr "crwdns37874:0crwdne37874:0"
 
+msgid "Benefits of being a MT5 provider"
+msgstr "crwdns161132:0crwdne161132:0"
+
 msgid "Benefits of being a Payment Agent"
 msgstr "crwdns37875:0crwdne37875:0"
+
+msgid "Benefits of subscribing to MT5 signals"
+msgstr "crwdns161134:0crwdne161134:0"
 
 msgid "Best execution factors"
 msgstr "crwdns51472:0crwdne51472:0"
@@ -2086,6 +2152,12 @@ msgstr "crwdns37916:0crwdne37916:0"
 msgid "Binary Options"
 msgstr "crwdns37920:0crwdne37920:0"
 
+msgid "Binary Password"
+msgstr "crwdns162132:0crwdne162132:0"
+
+msgid "Binary Password Reset"
+msgstr "crwdns162134:0crwdne162134:0"
+
 msgid "Binary WebTrader"
 msgstr "crwdns43600:0crwdne43600:0"
 
@@ -2113,8 +2185,17 @@ msgstr "crwdns53614:0crwdne53614:0"
 msgid "Binary options trading frequency"
 msgstr "crwdns53616:0crwdne53616:0"
 
+msgid "Binary options trading is not available in your country."
+msgstr "crwdns163210:0crwdne163210:0"
+
+msgid "Binary options trading is not available in your financial account."
+msgstr "crwdns163212:0crwdne163212:0"
+
 msgid "Binary options trading is relatively easy. You can purchase a contract in just three steps:"
 msgstr "crwdns42035:0crwdne42035:0"
+
+msgid "Binary password"
+msgstr "crwdns162136:0crwdne162136:0"
 
 msgid "Binary shall have the absolute discretionary power to accept or reject an application to open an Account by a client introduced by the Introducing Broker."
 msgstr "crwdns56188:0crwdne56188:0"
@@ -2139,9 +2220,6 @@ msgstr "crwdns37942:0%1crwdnd37942:0%2crwdnd37942:0%3crwdne37942:0"
 
 msgid "Binary.com Graduate Program"
 msgstr "crwdns53106:0crwdne53106:0"
-
-msgid "Binary.com MT5 is moving to Deriv"
-msgstr "crwdns118176:0crwdne118176:0"
 
 msgid "Binary.com Shop"
 msgstr "crwdns117100:0crwdne117100:0"
@@ -2476,14 +2554,14 @@ msgstr "crwdns158156:0crwdne158156:0"
 msgid "Change API Endpoint"
 msgstr "crwdns37991:0crwdne37991:0"
 
-msgid "Change MT5 password"
-msgstr "crwdns159452:0crwdne159452:0"
-
 msgid "Change Password"
 msgstr "crwdns37992:0crwdne37992:0"
 
 msgid "Change currency"
 msgstr "crwdns117106:0crwdne117106:0"
+
+msgid "Change investor password"
+msgstr "crwdns162138:0crwdne162138:0"
 
 msgid "Change password"
 msgstr "crwdns44576:0crwdne44576:0"
@@ -2491,8 +2569,8 @@ msgstr "crwdns44576:0crwdne44576:0"
 msgid "Change the Margin rate in relation to both Open Positions and new Orders"
 msgstr "crwdns54276:0crwdne54276:0"
 
-msgid "Change your main login password."
-msgstr "crwdns37996:0crwdne37996:0"
+msgid "Change your main login and trading password."
+msgstr "crwdns162140:0crwdne162140:0"
 
 msgid "Changes to this privacy policy"
 msgstr "crwdns51128:0crwdne51128:0"
@@ -2530,6 +2608,15 @@ msgstr "crwdns158286:0crwdne158286:0"
 msgid "Check that your number is correct"
 msgstr "crwdns158288:0crwdne158288:0"
 
+msgid "Check the email account associated with your Apple ID and click the link in the email to proceed."
+msgstr "crwdns162142:0crwdne162142:0"
+
+msgid "Check your Facebook account email and click the link in the email to proceed."
+msgstr "crwdns162144:0crwdne162144:0"
+
+msgid "Check your Google account email and click the link in the email to proceed."
+msgstr "crwdns162146:0crwdne162146:0"
+
 msgid "Check your image"
 msgstr "crwdns158290:0crwdne158290:0"
 
@@ -2544,9 +2631,6 @@ msgstr "crwdns45986:0crwdne45986:0"
 
 msgid "Chief Executives, Senior Officials and Legislators"
 msgstr "crwdns38005:0crwdne38005:0"
-
-msgid "Choose a currency for your real account:"
-msgstr "crwdns159008:0crwdne159008:0"
 
 msgid "Choose a duration from 10 seconds to 365 days."
 msgstr "crwdns38007:0crwdne38007:0"
@@ -2577,9 +2661,6 @@ msgstr "crwdns89864:0crwdne89864:0"
 
 msgid "Choose from three main trade types:"
 msgstr "crwdns42069:0crwdne42069:0"
-
-msgid "Choose one or more cryptocurrency accounts:"
-msgstr "crwdns159010:0crwdne159010:0"
 
 msgid "Choose scopes:"
 msgstr "crwdns53622:0crwdne53622:0"
@@ -2640,6 +2721,12 @@ msgstr "crwdns44566:0crwdne44566:0"
 
 msgid "Click here to retry"
 msgstr "crwdns38031:0crwdne38031:0"
+
+msgid "Click on the %1My Statistics%2 tab and select your signal provider."
+msgstr "crwdns161136:0%1crwdnd161136:0%2crwdne161136:0"
+
+msgid "Click the %1Renew%2 button to renew the service or the %1Unsubscribe%2 button to cancel the subscription."
+msgstr "crwdns161138:0%1crwdnd161138:0%2crwdnd161138:0%1crwdnd161138:0%2crwdne161138:0"
 
 msgid "Client Information"
 msgstr "crwdns54280:0crwdne54280:0"
@@ -2752,8 +2839,8 @@ msgstr "crwdns56202:0crwdne56202:0"
 msgid "Close identity verification screen"
 msgstr "crwdns158296:0crwdne158296:0"
 
-msgid "Close my account"
-msgstr "crwdns159012:0crwdne159012:0"
+msgid "Close open positions"
+msgstr "crwdns162516:0crwdne162516:0"
 
 msgid "Close your %1 account."
 msgstr "crwdns85235:0%1crwdne85235:0"
@@ -2790,9 +2877,6 @@ msgstr "crwdns56206:0crwdne56206:0"
 
 msgid "Closing price"
 msgstr "crwdns42075:0crwdne42075:0"
-
-msgid "Closing your %1 accounts involves closing all open positions in your accounts, withdrawing your funds, and deactivating your accounts."
-msgstr "crwdns159014:0%1crwdne159014:0"
 
 msgid "Cloudflare's public DNS service gives you more secure and faster web browsing."
 msgstr "crwdns46518:0crwdne46518:0"
@@ -2833,8 +2917,17 @@ msgstr "crwdns38079:0crwdne38079:0"
 msgid "Commission on withdrawals"
 msgstr "crwdns38080:0crwdne38080:0"
 
-msgid "Commission per round trade"
-msgstr "crwdns66530:0crwdne66530:0"
+msgid "Commission payout for all assets will be converted to your deposit currency based on the latest exchange rate."
+msgstr "crwdns161584:0crwdne161584:0"
+
+msgid "Commission per USD 100K turnover"
+msgstr "crwdns161586:0crwdne161586:0"
+
+msgid "Commission per USD 100k turnover"
+msgstr "crwdns161588:0crwdne161588:0"
+
+msgid "Commission per lot"
+msgstr "crwdns161590:0crwdne161590:0"
 
 msgid "Commission rates"
 msgstr "crwdns43864:0crwdne43864:0"
@@ -2914,6 +3007,9 @@ msgstr "crwdns38094:0crwdne38094:0"
 msgid "Complaints and disputes"
 msgstr "crwdns38095:0crwdne38095:0"
 
+msgid "Complete the form with your MT5 account credentials. In the Broker field, enter your account server name:"
+msgstr "crwdns161140:0crwdne161140:0"
+
 msgid "Complete your %1Tax Information%2."
 msgstr "crwdns53344:0%1crwdnd53344:0%2crwdne53344:0"
 
@@ -2974,11 +3070,17 @@ msgstr "crwdns38103:0crwdne38103:0"
 msgid "Configure your PC and mobile phone to use the Cloudflare DNS by following the instructions at %1."
 msgstr "crwdns51064:0%1crwdne51064:0"
 
+msgid "Configure your trading and risk management parameters. Then click %1OK%2 to complete the process."
+msgstr "crwdns161142:0%1crwdnd161142:0%2crwdne161142:0"
+
 msgid "Confirm"
 msgstr "crwdns38104:0crwdne38104:0"
 
 msgid "Confirm changes"
 msgstr "crwdns156200:0crwdne156200:0"
+
+msgid "Confirm password"
+msgstr "crwdns162148:0crwdne162148:0"
 
 msgid "Conflicts Policy"
 msgstr "crwdns38108:0crwdne38108:0"
@@ -3040,14 +3142,17 @@ msgstr "crwdns158304:0crwdne158304:0"
 msgid "Continue on your phone"
 msgstr "crwdns158306:0crwdne158306:0"
 
+msgid "Continue to account deactivation"
+msgstr "crwdns162518:0crwdne162518:0"
+
 msgid "Continue trading"
 msgstr "crwdns52518:0crwdne52518:0"
 
 msgid "Continue with the verification"
 msgstr "crwdns158308:0crwdne158308:0"
 
-msgid "Continuous Indices – Choose from the Volatility 10 Index, Volatility 25 Index, Volatility 50 Index, Volatility 75 Index, and Volatility 100 Index. These indices correspond to simulated markets with constant volatilities of 10%, 25%, 50%, 75%, and 100% respectively."
-msgstr "crwdns89868:0crwdne89868:0"
+msgid "Continuous Indices – Choose from the Volatility 10 (1s) Index, Volatility 25 (1s) Index, Volatility 50 (1s) Index, Volatility 75 (1s) Index, Volatility 100 (1s) Index, Volatility 10 Index, Volatility 25 Index, Volatility 50 Index, Volatility 75 Index, and Volatility 100 Index. These indices correspond to simulated markets with constant volatilities of 10%, 25%, 50%, 75%, and 100% respectively."
+msgstr "crwdns161746:0crwdne161746:0"
 
 msgid "Contract"
 msgstr "crwdns160154:0crwdne160154:0"
@@ -3286,6 +3391,9 @@ msgstr "crwdns52524:0crwdne52524:0"
 msgid "Create or Manage Accounts"
 msgstr "crwdns53242:0crwdne53242:0"
 
+msgid "Create or reset password"
+msgstr "crwdns162150:0crwdne162150:0"
+
 msgid "Create strategies against potential risks that might arise due to disruptive innovation"
 msgstr "crwdns51878:0crwdne51878:0"
 
@@ -3367,14 +3475,14 @@ msgstr "crwdns42095:0crwdne42095:0"
 msgid "Current"
 msgstr "crwdns38183:0crwdne38183:0"
 
-msgid "Current MT5 password"
-msgstr "crwdns159454:0crwdne159454:0"
-
 msgid "Current Time"
 msgstr "crwdns38184:0crwdne38184:0"
 
 msgid "Current balance"
 msgstr "crwdns38185:0crwdne38185:0"
+
+msgid "Current investor password"
+msgstr "crwdns162152:0crwdne162152:0"
 
 msgid "Current password"
 msgstr "crwdns38186:0crwdne38186:0"
@@ -3393,6 +3501,9 @@ msgstr "crwdns46409:0crwdne46409:0"
 
 msgid "Customer funds"
 msgstr "crwdns54374:0crwdne54374:0"
+
+msgid "Customer service was unsatisfactory."
+msgstr "crwdns162520:0crwdne162520:0"
 
 msgid "Customer-centric partnership"
 msgstr "crwdns66544:0crwdne66544:0"
@@ -3421,11 +3532,11 @@ msgstr "crwdns54376:0crwdne54376:0"
 msgid "D. Client instructions"
 msgstr "crwdns51482:0crwdne51482:0"
 
-msgid "DIEL RTS28 for 2018"
-msgstr "crwdns124216:0crwdne124216:0"
-
 msgid "DIEL RTS28 for 2019"
 msgstr "crwdns124218:0crwdne124218:0"
+
+msgid "DIEL RTS28 for 2020"
+msgstr "crwdns161636:0crwdne161636:0"
 
 msgid "DIEL forms part of %1the Investor Compensation Scheme%2 (the \"Scheme\"), which is a rescue fund for investors that are clients of failed investment firms licensed by the MFSA. The Scheme covers 90% of the Company's net liability to a client in respect of investments that qualify for compensation under the Investment Services Act subject to a maximum payment to any one person of €20,000. The Scheme is based on EC Directive 97/9."
 msgstr "crwdns121948:0%1crwdnd121948:0%2crwdne121948:0"
@@ -3519,6 +3630,15 @@ msgstr "crwdns160084:0crwdne160084:0"
 
 msgid "Deactivate"
 msgstr "crwdns123528:0crwdne123528:0"
+
+msgid "Deactivate Account"
+msgstr "crwdns162522:0crwdne162522:0"
+
+msgid "Deactivate account?"
+msgstr "crwdns162524:0crwdne162524:0"
+
+msgid "Deactivating your account will automatically log you out. You can reactivate your account by logging in at any time."
+msgstr "crwdns162526:0crwdne162526:0"
 
 msgid "Deal Cancel. Fee"
 msgstr "crwdns85657:0crwdne85657:0"
@@ -3847,9 +3967,6 @@ msgstr "crwdns38252:0crwdne38252:0"
 msgid "Disclaimers"
 msgstr "crwdns38253:0crwdne38253:0"
 
-msgid "Discover what’s new"
-msgstr "crwdns118178:0crwdne118178:0"
-
 msgid "Dismiss alert"
 msgstr "crwdns158324:0crwdne158324:0"
 
@@ -3954,6 +4071,9 @@ msgstr "crwdns53246:0%1crwdne53246:0"
 
 msgid "Don't worry, you can simply %1reset your password%2."
 msgstr "crwdns53364:0%1crwdnd53364:0%2crwdne53364:0"
+
+msgid "Done"
+msgstr "crwdns162154:0crwdne162154:0"
 
 msgid "Dormant and inactive accounts"
 msgstr "crwdns54396:0crwdne54396:0"
@@ -4159,6 +4279,18 @@ msgstr "crwdns89896:0crwdne89896:0"
 msgid "Earn up to 45% in commission based on the total net revenue generated by your clients. Commissions are credited into your account after the 15th of every month."
 msgstr "crwdns68430:0crwdne68430:0"
 
+msgid "Earn when your clients trade on an MT5 Financial STP account."
+msgstr "crwdns161592:0crwdne161592:0"
+
+msgid "Earn when your clients trade on an MT5 Financial account."
+msgstr "crwdns161594:0crwdne161594:0"
+
+msgid "Earn when your clients trade on an MT5 Synthetics account."
+msgstr "crwdns161596:0crwdne161596:0"
+
+msgid "Easy to set up – no installation required."
+msgstr "crwdns161144:0crwdne161144:0"
+
 msgid "Economic Calendar"
 msgstr "crwdns44771:0crwdne44771:0"
 
@@ -4281,6 +4413,15 @@ msgstr "crwdns51932:0crwdne51932:0"
 
 msgid "Ensure the integrity of releases by coordinating testing activities"
 msgstr "crwdns51934:0crwdne51934:0"
+
+msgid "Enter a new Binary password."
+msgstr "crwdns162156:0crwdne162156:0"
+
+msgid "Enter a new password for your Binary account."
+msgstr "crwdns162158:0crwdne162158:0"
+
+msgid "Enter a new trading password."
+msgstr "crwdns162160:0crwdne162160:0"
 
 msgid "Enter mobile number"
 msgstr "crwdns158344:0crwdne158344:0"
@@ -4873,9 +5014,6 @@ msgstr "crwdns118004:0crwdne118004:0"
 msgid "Financial assessment"
 msgstr "crwdns53636:0crwdne53636:0"
 
-msgid "Financial concerns"
-msgstr "crwdns159016:0crwdne159016:0"
-
 msgid "Financial derivatives that allow you to trade on the movement of underlying assets."
 msgstr "crwdns43208:0crwdne43208:0"
 
@@ -4954,14 +5092,14 @@ msgstr "crwdns54472:0crwdne54472:0"
 msgid "Food Services"
 msgstr "crwdns52612:0crwdne52612:0"
 
+msgid "For cryptocurrency assets, a deal for 1 lot of BTC/USD (with a BTC to USD exchange rate of USD 50,000) will pay out USD 10 in commission based on the following formula:"
+msgstr "crwdns161598:0crwdne161598:0"
+
 msgid "For details on submitting a complaint to the Company's lead supervisory authority on data processing practices, the client is encouraged to check %1's %2Complaints and disputes%3 section."
 msgstr "crwdns54474:0%1crwdnd54474:0%2Ccrwdnd54474:0%3crwdne54474:0"
 
 msgid "For e-wallets or local currencies not supported by %1."
 msgstr "crwdns45941:0%1crwdne45941:0"
-
-msgid "For example, a round trade (i.e. open and close position) of 1 lot of Vol 75 Index for a price of 125,000 USD would pay 12.5 USD."
-msgstr "crwdns89942:0crwdne89942:0"
 
 msgid "For example, if you buy a 100 USD contract and it's not going as planned, you just need to sell it to cut your losses at the current market price."
 msgstr "crwdns89944:0crwdne89944:0"
@@ -4995,6 +5133,18 @@ msgstr "crwdns51496:0%1crwdnd51496:0%1crwdne51496:0"
 
 msgid "For forex quotes, the closing times are defined by the Company as shown in the market opening times section of the website. In the event of any dispute regarding market or settlement values, the decision of the Company shall be final and binding. Clients should note that certain markets (such as stock indices) are not open throughout the day and that trading may not be available when the markets are closed."
 msgstr "crwdns89960:0crwdne89960:0"
+
+msgid "For forex, a deal for 1 lot of EUR/USD will pay out EUR 2.5 in commission based on the following formula:"
+msgstr "crwdns161600:0crwdne161600:0"
+
+msgid "For forex, a deal for 1 lot of EUR/USD will pay out EUR 5 in commission based on the following formula:"
+msgstr "crwdns161602:0crwdne161602:0"
+
+msgid "For forex, your commission is represented in the base currency (EUR in the above example)."
+msgstr "crwdns161604:0crwdne161604:0"
+
+msgid "For forex, your commission is represented in the base currency (EUR in the above example). Commission payout for all assets will be converted to your deposit currency based on the latest exchange rate."
+msgstr "crwdns161606:0crwdne161606:0"
 
 msgid "For forex: The forex market is an OTC (over the counter) market, where banks and other major financial institutions trade currencies amongst themselves without there being any central clearing house. Accordingly, there is no 'official' price source for forex quotes. Different data feeds will contain quotes from a different sub-set of international banks. Accordingly, prices may differ among providers, depending on which bank(s) they obtain prices from."
 msgstr "crwdns54478:0crwdne54478:0"
@@ -5038,9 +5188,6 @@ msgstr "crwdns38491:0crwdne38491:0"
 msgid "Forex and contract-for-difference transactions involve a high degree of risk and are speculative because they allow the client to speculate on the short-term price movements of the underlying financial instruments. The client should not enter into forex and/or contract-for-difference transactions unless the client is able to sustain losses that exceed the client's deposited funds. It is important for the client to understand that in order to realise any value from the client's open positions, the client would have to enter into a corresponding transaction to close the client's open positions and may find it difficult or impossible to do so under certain market conditions."
 msgstr "crwdns66756:0crwdne66756:0"
 
-msgid "Forex and metals*"
-msgstr "crwdns66558:0crwdne66558:0"
-
 msgid "Forex contract specifications"
 msgstr "crwdns43165:0crwdne43165:0"
 
@@ -5059,8 +5206,8 @@ msgstr "crwdns42165:0crwdne42165:0"
 msgid "Forex trading involves buying or selling these \"currency pairs\". When you buy a currency pair such as EUR/USD, it means that you are buying the EURO and selling the USD at the same time."
 msgstr "crwdns42166:0crwdne42166:0"
 
-msgid "Forex*"
-msgstr "crwdns66560:0crwdne66560:0"
+msgid "Forgot password"
+msgstr "crwdns162162:0crwdne162162:0"
 
 msgid "Founded in 1999, %1 is one of the oldest and most respected names in online binary trading."
 msgstr "crwdns38499:0%1crwdne38499:0"
@@ -5098,6 +5245,12 @@ msgstr "crwdns53120:0crwdne53120:0"
 msgid "From time to time, DIEL may decide to provide the client with written or video information, which DIEL may publish on its website or provide to the client in any other manner. DIEL will endeavour to ensure the accuracy and completeness of this information, but it will not constitute independent investment research or investment advice provided by DIEL to the client."
 msgstr "crwdns121980:0crwdne121980:0"
 
+msgid "From your MT5 trading terminal, click on the %1Signals%2 tab to view the list of signal providers."
+msgstr "crwdns161146:0%1Scrwdnd161146:0%2crwdne161146:0"
+
+msgid "From your MT5 trading terminal, click on the %1Signals%2 tab."
+msgstr "crwdns161148:0%1Scrwdnd161148:0%2crwdne161148:0"
+
 msgid "Front Side"
 msgstr "crwdns41748:0crwdne41748:0"
 
@@ -5109,6 +5262,9 @@ msgstr "crwdns52528:0crwdne52528:0"
 
 msgid "Front-End Developer"
 msgstr "crwdns52064:0crwdne52064:0"
+
+msgid "Full disclosure of each providers’ performances."
+msgstr "crwdns161150:0crwdne161150:0"
 
 msgid "Fund transfers"
 msgstr "crwdns54498:0crwdne54498:0"
@@ -5278,14 +5434,11 @@ msgstr "crwdns52530:0crwdne52530:0"
 msgid "Go to statement"
 msgstr "crwdns52708:0crwdne52708:0"
 
-msgid "Go to the %1Cashier%2 to withdraw funds from your %3 accounts."
-msgstr "crwdns159018:0%1Ccrwdnd159018:0%2crwdnd159018:0%3crwdne159018:0"
+msgid "Go to the MQL5 signals showcase page and click on the %1Create signal%2 button."
+msgstr "crwdns161154:0%1Ccrwdnd161154:0%2crwdne161154:0"
 
-msgid "Go to the %1MT5 dashboard%2 to withdraw funds from your Binary.com MT5 account."
-msgstr "crwdns159020:0%1crwdnd159020:0%2crwdne159020:0"
-
-msgid "Go to the %1portfolio page%2 to close all open positions from your Binary.com accounts."
-msgstr "crwdns159022:0%1pcrwdnd159022:0%2crwdne159022:0"
+msgid "Go to the MT5 Terminal"
+msgstr "crwdns161156:0crwdne161156:0"
 
 msgid "Go with the leader"
 msgstr "crwdns38562:0crwdne38562:0"
@@ -5310,6 +5463,9 @@ msgstr "crwdns53078:0crwdne53078:0"
 
 msgid "Good understanding of payments functionality and a keen interest in cryptocurrencies"
 msgstr "crwdns68394:0crwdne68394:0"
+
+msgid "Got it"
+msgstr "crwdns162164:0crwdne162164:0"
 
 msgid "Governing law"
 msgstr "crwdns54518:0crwdne54518:0"
@@ -5355,6 +5511,9 @@ msgstr "crwdns52080:0crwdne52080:0"
 
 msgid "Hands-on experience in troubleshooting computer software, hardware, and a variety of internet applications and networks"
 msgstr "crwdns52082:0crwdne52082:0"
+
+msgid "Have more questions? Check out the %1FAQ section%2 on the MQL5 website."
+msgstr "crwdns161158:0%1Fcrwdnd161158:0%2crwdne161158:0"
 
 msgid "Have not previously been a %1 customer"
 msgstr "crwdns43878:0%1crwdne43878:0"
@@ -5452,6 +5611,9 @@ msgstr "crwdns38590:0crwdne38590:0"
 msgid "Highlights"
 msgstr "crwdns38592:0crwdne38592:0"
 
+msgid "Hint: You may have chosen a different trading password from your %1 log in password."
+msgstr "crwdns162166:0%1crwdne162166:0"
+
 msgid "Historical Mediterranean island"
 msgstr "crwdns46419:0crwdne46419:0"
 
@@ -5494,6 +5656,9 @@ msgstr "crwdns38609:0crwdne38609:0"
 msgid "How it works"
 msgstr "crwdns38611:0crwdne38611:0"
 
+msgid "How it’s calculated"
+msgstr "crwdns161608:0crwdne161608:0"
+
 msgid "How much do I get paid if I refer clients onto your MT5 platform?"
 msgstr "crwdns44404:0crwdne44404:0"
 
@@ -5521,8 +5686,17 @@ msgstr "crwdns42184:0crwdne42184:0"
 msgid "How to read the table above"
 msgstr "crwdns38618:0crwdne38618:0"
 
+msgid "How to register as a signal provider"
+msgstr "crwdns161160:0crwdne161160:0"
+
+msgid "How to renew or cancel your subscription"
+msgstr "crwdns161162:0crwdne161162:0"
+
 msgid "How to scan a QR code"
 msgstr "crwdns158382:0crwdne158382:0"
+
+msgid "How to subscribe to a MT5 signal"
+msgstr "crwdns161164:0crwdne161164:0"
 
 msgid "How to trade CFDs"
 msgstr "crwdns42186:0crwdne42186:0"
@@ -5566,47 +5740,38 @@ msgstr "crwdns38630:0crwdne38630:0"
 msgid "I forgot my password, what should I do?"
 msgstr "crwdns38634:0crwdne38634:0"
 
+msgid "I have other financial priorities."
+msgstr "crwdns162528:0crwdne162528:0"
+
 msgid "I have read and agree to the %1terms and conditions%2 of the site."
 msgstr "crwdns38636:0%1tecrwdnd38636:0%2crwdne38636:0"
 
 msgid "I hereby confirm that the tax information I provided is true and complete. I will also inform Deriv Investments (Europe) Limited about any changes to this information."
 msgstr "crwdns123370:0crwdne123370:0"
 
-msgid "I want to change my affiliate instead"
-msgstr "crwdns159024:0crwdne159024:0"
-
-msgid "I want to change my currency instead"
-msgstr "crwdns159026:0crwdne159026:0"
-
-msgid "I want to close my account"
-msgstr "crwdns159028:0crwdne159028:0"
-
-msgid "I want to limit my trading activity instead"
-msgstr "crwdns159030:0crwdne159030:0"
-
-msgid "I want to open a cryptocurrency account instead"
-msgstr "crwdns159032:0crwdne159032:0"
-
-msgid "I want to open a fiat currency account instead"
-msgstr "crwdns159034:0crwdne159034:0"
-
-msgid "I want to open a real account instead"
-msgstr "crwdns159036:0crwdne159036:0"
-
-msgid "I want to open another cryptocurrency account instead"
-msgstr "crwdns159038:0crwdne159038:0"
+msgid "I prefer another trading website."
+msgstr "crwdns162530:0crwdne162530:0"
 
 msgid "I want to reapply"
 msgstr "crwdns52954:0crwdne52954:0"
 
-msgid "I want to set my currency instead"
-msgstr "crwdns159040:0crwdne159040:0"
+msgid "I want to receive updates on %1 products, services, and events."
+msgstr "crwdns161734:0%1crwdne161734:0"
+
+msgid "I want to stop myself from trading."
+msgstr "crwdns162532:0crwdne162532:0"
 
 msgid "I would like to be treated as a professional client."
 msgstr "crwdns52502:0crwdne52502:0"
 
+msgid "I'm deactivating my account for other reasons."
+msgstr "crwdns162534:0crwdne162534:0"
+
 msgid "I'm interested"
 msgstr "crwdns51112:0crwdne51112:0"
+
+msgid "I'm no longer interested in trading."
+msgstr "crwdns162536:0crwdne162536:0"
 
 msgid "I. Trading"
 msgstr "crwdns54528:0crwdne54528:0"
@@ -5631,6 +5796,9 @@ msgstr "crwdns125044:0crwdne125044:0"
 
 msgid "IMPORTANT DISCLAIMER"
 msgstr "crwdns38644:0crwdne38644:0"
+
+msgid "IOT/USD"
+msgstr "crwdns161610:0crwdne161610:0"
 
 msgid "IP Address"
 msgstr "crwdns38645:0crwdne38645:0"
@@ -5818,6 +5986,9 @@ msgstr "crwdns43105:0crwdne43105:0"
 msgid "If we have reason to believe that your tax information is incomplete, we may contact you for clarification."
 msgstr "crwdns43561:0crwdne43561:0"
 
+msgid "If you are a professional trader, the MT5 trading signals service allows you to share your strategies with other traders for free or a subscription fee that you determine. When traders subscribe to your signal, your deals are automatically replicated on their accounts each time you place a trade."
+msgstr "crwdns161166:0crwdne161166:0"
+
 msgid "If you are considering self-exclusion, you may wish to register with GAMSTOP."
 msgstr "crwdns157620:0crwdne157620:0"
 
@@ -5832,9 +6003,6 @@ msgstr "crwdns53390:0crwdne53390:0"
 
 msgid "If you choose to be treated as a Professional Client, we'll regard you as having the required market knowledge and experience. As such, we'll take steps to ensure that your request for Professional Client status meets the above criteria, including a request for the following:"
 msgstr "crwdns53392:0crwdne53392:0"
-
-msgid "If you deactivate:"
-msgstr "crwdns123530:0crwdne123530:0"
 
 msgid "If you decide to buy or 'go long' on the US 100 index, your profit will continue to increase as long as the price of the US 100 index keeps rising. However, if the price falls, the losses you incur will also increase."
 msgstr "crwdns42197:0crwdne42197:0"
@@ -5857,11 +6025,20 @@ msgstr "crwdns53394:0crwdne53394:0"
 msgid "If you find any vulnerabilities in our %1open-source code%2, feel free to submit a pull request on GitHub."
 msgstr "crwdns41510:0%1ocrwdnd41510:0%2crwdne41510:0"
 
+msgid "If you have a Binary real account, go to %1Cashier%2 to withdraw your funds"
+msgstr "crwdns162538:0%1Ccrwdnd162538:0%2crwdne162538:0"
+
+msgid "If you have a Binary real account, go to %1Portfolio%2 to close any open positions."
+msgstr "crwdns162540:0%1crwdnd162540:0%2crwdne162540:0"
+
+msgid "If you have a MT5 real account, go to %1MT5 dashboard%2 to withdraw your funds."
+msgstr "crwdns163204:0%1crwdnd163204:0%2crwdne163204:0"
+
+msgid "If you have a MT5 real account, log into it to close any open positions."
+msgstr "crwdns163206:0crwdne163206:0"
+
 msgid "If you have a payment reference (for example 122), you can enter it here."
 msgstr "crwdns85331:0crwdne85331:0"
-
-msgid "If you have opened positions in your MT5 account, please close them too."
-msgstr "crwdns159042:0crwdne159042:0"
 
 msgid "If you keep any positions open overnight, an interest adjustment will be made to your trading account as indication of the cost required to keep your position open."
 msgstr "crwdns42201:0crwdne42201:0"
@@ -5992,9 +6169,6 @@ msgstr "crwdns38707:0crwdne38707:0"
 msgid "If you select a specific <strong>end time</strong>, the <strong>end time</strong> is the selected time."
 msgstr "crwdns38709:0crwdne38709:0"
 
-msgid "If you want to change your affiliate, contact %1partners@binary.com%2 for more information on how you can do this."
-msgstr "crwdns159044:0%1pcrwdnd159044:0%2crwdne159044:0"
-
 msgid "If you wish to reduce or remove the self-exclusion period, contact our %1Customer Support%1."
 msgstr "crwdns156210:0%1Ccrwdnd156210:0%1crwdne156210:0"
 
@@ -6012,9 +6186,6 @@ msgstr "crwdns43108:0crwdne43108:0"
 
 msgid "If you're shortlisted, we'll send you a talent test to be completed."
 msgstr "crwdns52640:0crwdne52640:0"
-
-msgid "If your account currency is EUR or GBP, your commission will be converted based on the current forex rate."
-msgstr "crwdns66572:0crwdne66572:0"
 
 msgid "If your account is placed under margin call for an extended period of time, it will reach the stop out level where it is unable to sustain an open position. This will lead to your pending orders being cancelled and your open positions being forcibly closed (also known as “forced liquidation”)."
 msgstr "crwdns42204:0crwdne42204:0"
@@ -6379,11 +6550,11 @@ msgstr "crwdns123380:0crwdne123380:0"
 msgid "Investments &amp; Dividends"
 msgstr "crwdns38826:0crwdne38826:0"
 
-msgid "Investor"
-msgstr "crwdns159456:0crwdne159456:0"
-
 msgid "Investor Compensation Scheme"
 msgstr "crwdns38827:0crwdne38827:0"
+
+msgid "Investor password"
+msgstr "crwdns162168:0crwdne162168:0"
 
 msgid "Is there a cost for joining?"
 msgstr "crwdns38834:0crwdne38834:0"
@@ -6814,6 +6985,9 @@ msgstr "crwdns54736:0crwdne54736:0"
 msgid "Linked to your computer"
 msgstr "crwdns158398:0crwdne158398:0"
 
+msgid "Linked with %1"
+msgstr "crwdns162170:0%1crwdne162170:0"
+
 msgid "Links"
 msgstr "crwdns39082:0crwdne39082:0"
 
@@ -6970,6 +7144,9 @@ msgstr "crwdns122004:0crwdne122004:0"
 msgid "MT5 Real Account"
 msgstr "crwdns46066:0crwdne46066:0"
 
+msgid "MT5 Signals"
+msgstr "crwdns161168:0crwdne161168:0"
+
 msgid "MT5 Synthetic"
 msgstr "crwdns118006:0crwdne118006:0"
 
@@ -7011,12 +7188,6 @@ msgstr "crwdns43114:0crwdne43114:0"
 
 msgid "Maestro is an international debit card service by Mastercard. For more information, please visit %1."
 msgstr "crwdns53208:0%1crwdne53208:0"
-
-msgid "Main"
-msgstr "crwdns159458:0crwdne159458:0"
-
-msgid "Main password"
-msgstr "crwdns159460:0crwdne159460:0"
 
 msgid "Maintain accurate system pricing parameters"
 msgstr "crwdns39117:0crwdne39117:0"
@@ -7114,6 +7285,9 @@ msgstr "crwdns118230:0crwdne118230:0"
 msgid "Making decisions about who to employ and what salary and benefits to offer"
 msgstr "crwdns118232:0crwdne118232:0"
 
+msgid "Making deposits and withdrawals is difficult."
+msgstr "crwdns162546:0crwdne162546:0"
+
 msgid "Making sure of having effective and updated antivirus/antispyware software and firewall in place before using public WiFi"
 msgstr "crwdns157328:0crwdne157328:0"
 
@@ -7164,6 +7338,9 @@ msgstr "crwdns52166:0crwdne52166:0"
 
 msgid "Manage the funds in your cryptocurrency account."
 msgstr "crwdns39129:0crwdne39129:0"
+
+msgid "Manage trading password"
+msgstr "crwdns162172:0crwdne162172:0"
 
 msgid "Manage your authorised applications."
 msgstr "crwdns39130:0crwdne39130:0"
@@ -7324,6 +7501,9 @@ msgstr "crwdns39181:0crwdne39181:0"
 msgid "MetaTrader 5"
 msgstr "crwdns39182:0crwdne39182:0"
 
+msgid "MetaTrader 5 Signals"
+msgstr "crwdns161170:0crwdne161170:0"
+
 msgid "MetaTrader 5 dashboard"
 msgstr "crwdns43137:0crwdne43137:0"
 
@@ -7375,6 +7555,9 @@ msgstr "crwdns39188:0crwdne39188:0"
 msgid "Min-Max Withdrawal"
 msgstr "crwdns39189:0crwdne39189:0"
 
+msgid "Minimise trading risk by copying from expert traders."
+msgstr "crwdns161172:0crwdne161172:0"
+
 msgid "Minimum deposit"
 msgstr "crwdns43432:0crwdne43432:0"
 
@@ -7392,6 +7575,9 @@ msgstr "crwdns52172:0crwdne52172:0"
 
 msgid "Minimum volume"
 msgstr "crwdns43470:0crwdne43470:0"
+
+msgid "Minimum volume requirement"
+msgstr "crwdns161612:0crwdne161612:0"
 
 msgid "Minimum:"
 msgstr "crwdns45920:0crwdne45920:0"
@@ -7540,6 +7726,9 @@ msgstr "crwdns46269:0crwdne46269:0"
 msgid "Must be a clear, colour photo or scanned image"
 msgstr "crwdns41757:0crwdne41757:0"
 
+msgid "Must be numbers, letters, and special characters . , ' -"
+msgstr "crwdns162548:0crwdne162548:0"
+
 msgid "Must be under 10MB."
 msgstr "crwdns158436:0crwdne158436:0"
 
@@ -7554,6 +7743,9 @@ msgstr "crwdns43455:0crwdne43455:0"
 
 msgid "NEED HELP?"
 msgstr "crwdns56762:0crwdne56762:0"
+
+msgid "NEO/USD"
+msgstr "crwdns161614:0crwdne161614:0"
 
 msgid "NETELLER provides businesses and individuals with a fast, simple, and secure way to transfer money online. For more information, please visit %1."
 msgstr "crwdns52804:0%1crwdne52804:0"
@@ -7639,11 +7831,8 @@ msgstr "crwdns39246:0crwdne39246:0"
 msgid "Never Used"
 msgstr "crwdns39247:0crwdne39247:0"
 
-msgid "New MT5 password"
-msgstr "crwdns159462:0crwdne159462:0"
-
-msgid "New Password"
-msgstr "crwdns39248:0crwdne39248:0"
+msgid "New Binary password"
+msgstr "crwdns162174:0crwdne162174:0"
 
 msgid "New Year's Day"
 msgstr "crwdns39250:0crwdne39250:0"
@@ -7666,6 +7855,9 @@ msgstr "crwdns90006:0crwdne90006:0"
 msgid "New account"
 msgstr "crwdns52536:0crwdne52536:0"
 
+msgid "New investor password"
+msgstr "crwdns162176:0crwdne162176:0"
+
 msgid "New office in Asunción, Paraguay"
 msgstr "crwdns53142:0crwdne53142:0"
 
@@ -7686,6 +7878,9 @@ msgstr "crwdns90008:0crwdne90008:0"
 
 msgid "New token created."
 msgstr "crwdns39253:0crwdne39253:0"
+
+msgid "New trading password"
+msgstr "crwdns162178:0crwdne162178:0"
 
 msgid "Next"
 msgstr "crwdns39254:0crwdne39254:0"
@@ -7776,9 +7971,6 @@ msgstr "crwdns53122:0crwdne53122:0"
 
 msgid "Not at all. Joining our affiliate programme is completely free and always will be."
 msgstr "crwdns43890:0crwdne43890:0"
-
-msgid "Not interested in trading"
-msgstr "crwdns159046:0crwdne159046:0"
 
 msgid "Not leaving devices unattended"
 msgstr "crwdns157330:0crwdne157330:0"
@@ -7872,6 +8064,9 @@ msgstr "crwdns39298:0crwdne39298:0"
 
 msgid "OK"
 msgstr "crwdns39299:0crwdne39299:0"
+
+msgid "OMG/USD"
+msgstr "crwdns161616:0crwdne161616:0"
 
 msgid "OSCP, CEH, Security+, CISSP, or any GIAC certification is an advantage"
 msgstr "crwdns52184:0crwdne52184:0"
@@ -8122,9 +8317,6 @@ msgstr "crwdns66768:0crwdne66768:0"
 msgid "Other than the payment of Commissions, Binary is not liable to the Introducing Broker or their Associates or any other person for any matter arising out of or in relation to this Agreement whether under the law of tort, contract, or equity or otherwise for any loss."
 msgstr "crwdns54846:0crwdne54846:0"
 
-msgid "Others (please specify)"
-msgstr "crwdns159048:0crwdne159048:0"
-
 msgid "Our Accounting &amp; Payments team manages our wide range of bank accounts and e-currency systems, as well as the huge volume of transactions that take place every day."
 msgstr "crwdns52188:0crwdne52188:0"
 
@@ -8251,6 +8443,9 @@ msgstr "crwdns39412:0crwdne39412:0"
 msgid "PM"
 msgstr "crwdns39413:0crwdne39413:0"
 
+msgid "Page not available, you did not deactivate your account."
+msgstr "crwdns163394:0crwdne163394:0"
+
 msgid "Palladium vs US dollar"
 msgstr "crwdns90020:0crwdne90020:0"
 
@@ -8307,9 +8502,6 @@ msgstr "crwdns39421:0crwdne39421:0"
 
 msgid "Password should have lower and uppercase English letters with numbers."
 msgstr "crwdns125036:0crwdne125036:0"
-
-msgid "Password type"
-msgstr "crwdns159466:0crwdne159466:0"
 
 msgid "Patented technology"
 msgstr "crwdns39423:0crwdne39423:0"
@@ -8569,6 +8761,12 @@ msgstr "crwdns52946:0crwdne52946:0"
 msgid "Please choose a currency"
 msgstr "crwdns39471:0crwdne39471:0"
 
+msgid "Please click on the link in the email to reset your binary password."
+msgstr "crwdns162180:0crwdne162180:0"
+
+msgid "Please click on the link in the email to reset your trading password."
+msgstr "crwdns162182:0crwdne162182:0"
+
 msgid "Please complete the %1Real Account form%2 to verify your age as required by the %3UK Gambling%4 Commission (UKGC)."
 msgstr "crwdns53752:0%1crwdnd53752:0%2crwdnd53752:0%3crwdnd53752:0%4crwdne53752:0"
 
@@ -8620,6 +8818,9 @@ msgstr "crwdns39479:0crwdne39479:0"
 msgid "Please enter date in the format DD MMM, YYYY."
 msgstr "crwdns39480:0crwdne39480:0"
 
+msgid "Please enter no more than %1 characters for both fields."
+msgstr "crwdns162550:0%1crwdne162550:0"
+
 msgid "Please enter your %1tax information%2 below to continue."
 msgstr "crwdns43563:0%1tacrwdnd43563:0%2crwdne43563:0"
 
@@ -8628,6 +8829,9 @@ msgstr "crwdns43493:0crwdne43493:0"
 
 msgid "Please enter your full home address to avoid authentication delays."
 msgstr "crwdns53656:0crwdne53656:0"
+
+msgid "Please enter your trading password to create an account. If you've forgotten your password, click %1Reset password%2"
+msgstr "crwdns162184:0%1crwdnd162184:0%2crwdne162184:0"
 
 msgid "Please fill in the Login ID and Amount you wish to transfer to your Client in the form below:"
 msgstr "crwdns39481:0crwdne39481:0"
@@ -8643,6 +8847,9 @@ msgstr "crwdns42329:0crwdne42329:0"
 
 msgid "Please note that the selected currency is allowed for limited accounts only."
 msgstr "crwdns90024:0crwdne90024:0"
+
+msgid "Please note:"
+msgstr "crwdns161618:0crwdne161618:0"
 
 msgid "Please provide the tax identification number for the country where you are a tax resident. If you cannot provide this information, kindly contact our customer support team."
 msgstr "crwdns52642:0crwdne52642:0"
@@ -8674,11 +8881,11 @@ msgstr "crwdns39495:0crwdne39495:0"
 msgid "Please select a country"
 msgstr "crwdns41906:0crwdne41906:0"
 
-msgid "Please select a reason."
-msgstr "crwdns159050:0crwdne159050:0"
-
 msgid "Please select a valid time."
 msgstr "crwdns39498:0crwdne39498:0"
+
+msgid "Please select at least one reason."
+msgstr "crwdns162552:0crwdne162552:0"
 
 msgid "Please select at least one scope"
 msgstr "crwdns39500:0crwdne39500:0"
@@ -8707,9 +8914,6 @@ msgstr "crwdns53446:0%13crwdnd53446:0%2crwdne53446:0"
 msgid "Please set your %130-day turnover limit%2 to remove deposit limits."
 msgstr "crwdns50920:0%13crwdnd50920:0%2crwdne50920:0"
 
-msgid "Please specify the reasons for closing your accounts"
-msgstr "crwdns159052:0crwdne159052:0"
-
 msgid "Please specify your preferred reality-check interval in minutes"
 msgstr "crwdns39508:0crwdne39508:0"
 
@@ -8731,8 +8935,8 @@ msgstr "crwdns56716:0crwdne56716:0"
 msgid "Please take note that our swap rate also depends on the time and days you hold your positions open:"
 msgstr "crwdns42331:0crwdne42331:0"
 
-msgid "Please tell us why you are closing your account (please select one):"
-msgstr "crwdns159054:0crwdne159054:0"
+msgid "Please tell us why you’re leaving. (Select up to 3 reasons.)"
+msgstr "crwdns162554:0crwdne162554:0"
 
 msgid "Please try again"
 msgstr "crwdns158458:0crwdne158458:0"
@@ -8859,9 +9063,6 @@ msgstr "crwdns42349:0crwdne42349:0"
 
 msgid "Predictable substitutions like '@' instead of 'a' don't help very much"
 msgstr "crwdns160090:0crwdne160090:0"
-
-msgid "Prefer another trading website"
-msgstr "crwdns159056:0crwdne159056:0"
 
 msgid "Preferences:"
 msgstr "crwdns39533:0crwdne39533:0"
@@ -9139,17 +9340,11 @@ msgstr "crwdns68504:0crwdne68504:0"
 msgid "Q2 2020"
 msgstr "crwdns125014:0crwdne125014:0"
 
-msgid "Q3 2018"
-msgstr "crwdns53146:0crwdne53146:0"
-
 msgid "Q3 2019"
 msgstr "crwdns84679:0crwdne84679:0"
 
 msgid "Q3 2020"
 msgstr "crwdns157986:0crwdne157986:0"
-
-msgid "Q4 2018"
-msgstr "crwdns53148:0crwdne53148:0"
 
 msgid "Q4 2019"
 msgstr "crwdns87370:0crwdne87370:0"
@@ -9174,9 +9369,6 @@ msgstr "crwdns42352:0crwdne42352:0"
 
 msgid "Quote provision"
 msgstr "crwdns54908:0crwdne54908:0"
-
-msgid "RTS 27 2018"
-msgstr "crwdns66996:0crwdne66996:0"
 
 msgid "RTS 27 2019"
 msgstr "crwdns66998:0crwdne66998:0"
@@ -9273,9 +9465,6 @@ msgstr "crwdns53660:0%1crwdne53660:0"
 
 msgid "Receive instant prices based on your position."
 msgstr "crwdns42360:0crwdne42360:0"
-
-msgid "Receive news and special offers"
-msgstr "crwdns39624:0crwdne39624:0"
 
 msgid "Receive prices that are benchmarked against interbank rates."
 msgstr "crwdns90054:0crwdne90054:0"
@@ -9421,6 +9610,12 @@ msgstr "crwdns90060:0%1crwdne90060:0"
 msgid "Remaining Time"
 msgstr "crwdns39653:0crwdne39653:0"
 
+msgid "Remaining characters: %1."
+msgstr "crwdns162556:0%1crwdne162556:0"
+
+msgid "Remaining characters: 250."
+msgstr "crwdns162558:0crwdne162558:0"
+
 msgid "Remember to press stop when you're done. <fallback>Redo video actions</fallback>"
 msgstr "crwdns158474:0crwdne158474:0"
 
@@ -9441,9 +9636,6 @@ msgstr "crwdns54922:0crwdne54922:0"
 
 msgid "Representations and warranties"
 msgstr "crwdns54924:0crwdne54924:0"
-
-msgid "Represents the amount in base currency per round trade. For example, a round trade of 1 lot of EUR/USD would pay 10 EUR on financial accounts. A round trade of 1 lot of USD/CAD would pay 5 USD on financial STP accounts."
-msgstr "crwdns118104:0crwdne118104:0"
 
 msgid "Represents the maximum amount of cash that you may hold in your account.  If the maximum is reached, you will be asked to withdraw funds."
 msgstr "crwdns39655:0crwdne39655:0"
@@ -9490,9 +9682,6 @@ msgstr "crwdns45908:0crwdne45908:0"
 msgid "Reset Call/Reset Put"
 msgstr "crwdns45984:0crwdne45984:0"
 
-msgid "Reset MT5 password"
-msgstr "crwdns159468:0crwdne159468:0"
-
 msgid "Reset Password"
 msgstr "crwdns39661:0crwdne39661:0"
 
@@ -9501,6 +9690,12 @@ msgstr "crwdns45909:0crwdne45909:0"
 
 msgid "Reset Time"
 msgstr "crwdns45910:0crwdne45910:0"
+
+msgid "Reset investor password"
+msgstr "crwdns162186:0crwdne162186:0"
+
+msgid "Reset my password"
+msgstr "crwdns162188:0crwdne162188:0"
 
 msgid "Reset my virtual balance"
 msgstr "crwdns158876:0crwdne158876:0"
@@ -9706,6 +9901,9 @@ msgstr "crwdns39707:0crwdne39707:0"
 msgid "Save in case of negligence, fraud, or default by the Company, the Company will not be liable in any way to any clients in the event of force majeure, or for the act of any government or legal authority, or for the failure of or damage or destruction to its computer systems, data, or records, or any part thereof, or for delays, losses, errors, or omissions resulting from the failure or mismanagement of any telecommunications, computer equipment, or software by the client or any damages or losses deemed or alleged to have resulted from, or been caused by, this site or its content."
 msgstr "crwdns54954:0crwdne54954:0"
 
+msgid "Save time – no need to open, monitor, and close trades."
+msgstr "crwdns161174:0crwdne161174:0"
+
 msgid "Savings & Inheritance"
 msgstr "crwdns52620:0crwdne52620:0"
 
@@ -9823,6 +10021,9 @@ msgstr "crwdns39733:0crwdne39733:0"
 msgid "Select payment agent"
 msgstr "crwdns53720:0crwdne53720:0"
 
+msgid "Select the signal provider you prefer and click the %1Subscribe%2 button."
+msgstr "crwdns161176:0%1Scrwdnd161176:0%2crwdne161176:0"
+
 msgid "Select your market and underlying asset"
 msgstr "crwdns44918:0crwdne44918:0"
 
@@ -9907,8 +10108,8 @@ msgstr "crwdns160100:0crwdne160100:0"
 msgid "Server"
 msgstr "crwdns39756:0crwdne39756:0"
 
-msgid "Server maintenance starting 03:00 GMT every Sunday. This process may take up to 2 hours to complete. Service may be disrupted during this time."
-msgstr "crwdns90068:0crwdne90068:0"
+msgid "Server maintenance starting 01:00 GMT every Sunday. This process may take up to 2 hours to complete. Service may be disrupted during this time."
+msgstr "crwdns161178:0crwdne161178:0"
 
 msgid "Server:"
 msgstr "crwdns122016:0crwdne122016:0"
@@ -9925,6 +10126,9 @@ msgstr "crwdns39760:0crwdne39760:0"
 msgid "Set Currency"
 msgstr "crwdns39763:0crwdne39763:0"
 
+msgid "Set a trading password. Use this to log in and trade on MT5."
+msgstr "crwdns162190:0crwdne162190:0"
+
 msgid "Set barrier(s) to define your position and trigger the payout you'll receive."
 msgstr "crwdns42368:0crwdne42368:0"
 
@@ -9939,6 +10143,9 @@ msgstr "crwdns42369:0crwdne42369:0"
 
 msgid "Set the standard for our technical documentation by creating a technical style guide that can be followed across the company"
 msgstr "crwdns89780:0crwdne89780:0"
+
+msgid "Set trading password"
+msgstr "crwdns162192:0crwdne162192:0"
 
 msgid "Set up %1 on your device now"
 msgstr "crwdns46520:0%1crwdne46520:0"
@@ -9960,9 +10167,6 @@ msgstr "crwdns89782:0%1crwdne89782:0"
 
 msgid "Severability"
 msgstr "crwdns39769:0crwdne39769:0"
-
-msgid "Share access to your account without any permission to trade."
-msgstr "crwdns159470:0crwdne159470:0"
 
 msgid "Sharp prices"
 msgstr "crwdns39770:0crwdne39770:0"
@@ -10032,6 +10236,12 @@ msgstr "crwdns43900:0crwdne43900:0"
 
 msgid "Sign up now"
 msgstr "crwdns66608:0crwdne66608:0"
+
+msgid "Signal Provider"
+msgstr "crwdns161180:0crwdne161180:0"
+
+msgid "Signal Subscriber"
+msgstr "crwdns161182:0crwdne161182:0"
 
 msgid "Signup"
 msgstr "crwdns45959:0crwdne45959:0"
@@ -10108,9 +10318,6 @@ msgstr "crwdns39806:0crwdne39806:0"
 msgid "Sorry, an error occurred while processing your request."
 msgstr "crwdns39807:0crwdne39807:0"
 
-msgid "Sorry, but binary options trading is not available in your financial account."
-msgstr "crwdns68770:0crwdne68770:0"
-
 msgid "Sorry, deposits for this currency are currently disabled."
 msgstr "crwdns90076:0crwdne90076:0"
 
@@ -10119,9 +10326,6 @@ msgstr "crwdns87372:0crwdne87372:0"
 
 msgid "Sorry, no mobile phone bills"
 msgstr "crwdns158518:0crwdne158518:0"
-
-msgid "Sorry, this feature is available to virtual accounts only."
-msgstr "crwdns39808:0crwdne39808:0"
 
 msgid "Sorry, this feature is not available in your jurisdiction."
 msgstr "crwdns39809:0crwdne39809:0"
@@ -10240,9 +10444,6 @@ msgstr "crwdns42380:0crwdne42380:0"
 msgid "Step 1: Choose demo or real account"
 msgstr "crwdns43145:0crwdne43145:0"
 
-msgid "Step 1: Close all open positions"
-msgstr "crwdns159058:0crwdne159058:0"
-
 msgid "Step 1: Define your position"
 msgstr "crwdns39844:0crwdne39844:0"
 
@@ -10260,9 +10461,6 @@ msgstr "crwdns42385:0crwdne42385:0"
 
 msgid "Step 2: Understand when to buy and when to sell"
 msgstr "crwdns42386:0crwdne42386:0"
-
-msgid "Step 2: Withdraw your funds"
-msgstr "crwdns159060:0crwdne159060:0"
 
 msgid "Step 3"
 msgstr "crwdns42387:0crwdne42387:0"
@@ -10290,6 +10488,9 @@ msgstr "crwdns67032:0%1crwdne67032:0"
 
 msgid "Stock Indices"
 msgstr "crwdns90080:0crwdne90080:0"
+
+msgid "Stock indices"
+msgstr "crwdns161620:0crwdne161620:0"
 
 msgid "Stock market indices measure the value of a selection of companies in the stock market."
 msgstr "crwdns39847:0crwdne39847:0"
@@ -10320,6 +10521,9 @@ msgstr "crwdns52350:0crwdne52350:0"
 
 msgid "Straight rows of keys are easy to guess"
 msgstr "crwdns160104:0crwdne160104:0"
+
+msgid "Strong  password contain at least 8 characters, combine uppercase and lowercase letters and numbers."
+msgstr "crwdns162196:0crwdne162196:0"
 
 msgid "Strong analytical capabilities that have been proven in a prior capacity or a keen interest to move into this area"
 msgstr "crwdns52352:0crwdne52352:0"
@@ -10429,6 +10633,9 @@ msgstr "crwdns45994:0crwdne45994:0"
 msgid "Submitting"
 msgstr "crwdns45995:0crwdne45995:0"
 
+msgid "Success!"
+msgstr "crwdns162198:0crwdne162198:0"
+
 msgid "Successful"
 msgstr "crwdns39877:0crwdne39877:0"
 
@@ -10533,6 +10740,9 @@ msgstr "crwdns85645:0crwdne85645:0"
 
 msgid "System Administrator"
 msgstr "crwdns52372:0crwdne52372:0"
+
+msgid "TRX/USD"
+msgstr "crwdns161622:0crwdne161622:0"
 
 msgid "Table 1 - Type of execution venue"
 msgstr "crwdns52648:0crwdne52648:0"
@@ -10732,9 +10942,6 @@ msgstr "crwdns43904:0%1crwdne43904:0"
 msgid "The %1 order execution policy"
 msgstr "crwdns55040:0%1crwdne55040:0"
 
-msgid "The %1 password of account number %2 has been changed."
-msgstr "crwdns44584:0%1crwdnd44584:0%2crwdne44584:0"
-
 msgid "The %1 privacy and security policy"
 msgstr "crwdns55042:0%1crwdne55042:0"
 
@@ -10849,11 +11056,11 @@ msgstr "crwdns55076:0crwdne55076:0"
 msgid "The Affiliate shall not hold or pool the Affiliate's referrals' funds or third-party funds into the Affiliate's own account held with %1."
 msgstr "crwdns55078:0%1crwdne55078:0"
 
+msgid "The Affiliate shall not impersonate the Company’s domains, or bid on, purchase, or register keywords, search terms, or other identifiers for use in any search engine, portal, sponsored advertising service, or other search or referral service that are identical or similar to any of the Company’s trademarks or trade names that include the word \"%1\" or any variation thereof."
+msgstr "crwdns162560:0%1crwdne162560:0"
+
 msgid "The Affiliate shall not place trades on the Affiliate's referrals' behalf."
 msgstr "crwdns55080:0crwdne55080:0"
-
-msgid "The Affiliate shall not purchase or register keywords, search terms, or other identifiers for use in any search engine, portal, sponsored advertising service, or other search or referral service that are identical or similar to any of the Company's trademarks or trade names that include the word \"%1\" or any variation thereof."
-msgstr "crwdns55082:0%1crwdne55082:0"
 
 msgid "The Affiliate shall not resort to high-pressure sales tactics or false promises."
 msgstr "crwdns55084:0crwdne55084:0"
@@ -10863,6 +11070,9 @@ msgstr "crwdns55086:0crwdne55086:0"
 
 msgid "The Affiliate's obligations"
 msgstr "crwdns55088:0crwdne55088:0"
+
+msgid "The Affiliate’s advertisements and campaigns must not lead traffic directly to the Company’s websites and must not include any URL containing the word \"%1\" or any variation thereof."
+msgstr "crwdns162562:0%1crwdne162562:0"
 
 msgid "The Agent agrees to indemnify the Company for all and any losses that the Company may suffer arising out of, or in connection with, the Agent's fraudulent acts or omissions, negligence, misconduct, wilful default, or breach of this Agreement."
 msgstr "crwdns55090:0crwdne55090:0"
@@ -10924,6 +11134,9 @@ msgstr "crwdns118240:0crwdne118240:0"
 msgid "The Company also collects basic tax residence information for the purposes of CRS/FATCA compliance. The tax information that the client provides may only be disclosed to the authorities who are legally charged with collecting this information for CRS/FATCA reporting, and %1 will only do so to the extent that it is legally obliged to collect it from the clients and disclose it to the authorities. The Company does not use, disclose, or process this information in any other way at any time."
 msgstr "crwdns66780:0%1crwdne66780:0"
 
+msgid "The Company also has a regulatory obligation to send the personal data of the clients residing in the UK to GAMSTOP to check whether or not  they have self-excluded with GAMSTOP. To find out more, please read the %1GAMSTOP privacy policy%2."
+msgstr "crwdns161184:0%1Gcrwdnd161184:0%2crwdne161184:0"
+
 msgid "The Company also reserves the right to request documentation pertaining to any other legal obligation."
 msgstr "crwdns56946:0crwdne56946:0"
 
@@ -10936,11 +11149,11 @@ msgstr "crwdns55230:0crwdne55230:0"
 msgid "The Company collects, stores, and processes a range of information about the applicant, including but not limited to the following:"
 msgstr "crwdns118242:0crwdne118242:0"
 
+msgid "The Company does not guarantee and bears no liability for the simultaneous selling of the original and copy trades when the client engages in copy trading on WebTrader."
+msgstr "crwdns162200:0crwdne162200:0"
+
 msgid "The Company does not guarantee that the %1 API it provides will function without interruption or errors in functioning. In particular, the operation of the %1 API may be interrupted due to maintenance, updates, or system or network failures. The Company disclaims all liability for damages caused by any such interruption or errors in functioning."
 msgstr "crwdns39940:0%1crwdnd39940:0%1crwdne39940:0"
-
-msgid "The Company does not guarantee the ability to sell a contract prior to its expiration time."
-msgstr "crwdns55234:0crwdne55234:0"
 
 msgid "The Company does not make any warranty, express or implied, that any pricing or other information provided through the MT5 trading platform or otherwise is correct."
 msgstr "crwdns55236:0crwdne55236:0"
@@ -10966,8 +11179,8 @@ msgstr "crwdns68134:0crwdne68134:0"
 msgid "The Company endeavours to open or close the transaction to which the client's Order relates at a price reasonably available to the Company, acting in accordance with the Company's duty of best execution. Best execution means that, when executing Orders, the Company must take all sufficient steps to obtain the best possible result for the client, taking into account the price, costs, speed, likelihood of execution and settlement, size, nature, or any other consideration relevant to the execution of the Order."
 msgstr "crwdns56948:0crwdne56948:0"
 
-msgid "The Company has a Stop Out policy which prevents the client from losing more than they have deposited. However, in the event that the client's Open Positions are not closed when the Margin Level for their MT5 Real Account reaches the Stop Out Level, the Company, at its sole discretion, may waive the client's negative balance by crediting their account if their Account Balance goes into a negative balance. The negative balance is determined by aggregating all the negative balances incurred over a 24-hour period across all accounts held by the client. The client acknowledges that, unless they are a retail customer of Deriv Investments (Europe) Limited or a client of Deriv (Europe) Limited, the offer of the negative balance protection by the Company to the client is at the Company's sole discretion and the Company reserves the right to change the features and eligibility criteria of the negative balance protection at any time. The provisions of the negative balance protection do not apply in the following situations:"
-msgstr "crwdns123390:0crwdne123390:0"
+msgid "The Company has a Stop Out policy which prevents the client from losing more than they have deposited. However, in the event that the client's Open Positions are not closed when the Margin Level for their MT5 Real Account reaches the Stop Out Level, the Company, at its sole discretion, may waive the client's negative balance by crediting their account if their Account Balance goes into a negative balance. The negative balance is determined by aggregating all the negative balances incurred over a 24-hour period across all accounts held by the client. The client acknowledges that, unless they are a retail customer of Deriv Investments (Europe) Limited, a client of Deriv (Europe) Limited, or a retail customer residing in Australia, the offer of the negative balance protection by the Company to the client is at the Company's sole discretion and the Company reserves the right to change the features and eligibility criteria of the negative balance protection at any time. The provisions of the negative balance protection do not apply in the following situations:"
+msgstr "crwdns161186:0crwdne161186:0"
 
 msgid "The Company has a general duty to conduct its business with the client honestly, fairly, and professionally and to act in the client's best interests when opening and closing binary options trades with the client."
 msgstr "crwdns66782:0crwdne66782:0"
@@ -11376,6 +11589,9 @@ msgstr "crwdns55466:0crwdne55466:0"
 
 msgid "The MT5 desktop app is not supported by Windows XP, Windows 2003, and Windows Vista."
 msgstr "crwdns159582:0crwdne159582:0"
+
+msgid "The MT5 trading signals service allows you to copy the trades of more experienced traders to your MT5 account. Once you’ve subscribed to a signal, the provider’s deals will be automatically replicated on your %1 MT5 trading account each time they place a trade."
+msgstr "crwdns161188:0%1crwdne161188:0"
 
 msgid "The Margin Level of the client's MT5 Real Account reaches or falls below the Stop Out Level."
 msgstr "crwdns56364:0crwdne56364:0"
@@ -11920,6 +12136,9 @@ msgstr "crwdns156214:0crwdne156214:0"
 msgid "The interest adjustment is calculated in points, meaning we will convert the relevant interbank lending rates to points in the base currency."
 msgstr "crwdns40062:0crwdne40062:0"
 
+msgid "The investor password of account number %1 has been changed."
+msgstr "crwdns162202:0%1crwdne162202:0"
+
 msgid "The level of protection offered and due to each client depends on the category to which each client is assigned. Retail clients benefit from the highest degree of protection. The Company will assess the client's knowledge and experience versus the appropriateness of the requested service/investment product."
 msgstr "crwdns56488:0crwdne56488:0"
 
@@ -11992,6 +12211,12 @@ msgstr "crwdns40081:0crwdne40081:0"
 msgid "The photo should clearly show your document"
 msgstr "crwdns158566:0crwdne158566:0"
 
+msgid "The platforms aren't user-friendly."
+msgstr "crwdns162564:0crwdne162564:0"
+
+msgid "The platforms lack key features or functionality."
+msgstr "crwdns162566:0crwdne162566:0"
+
 msgid "The premier platform for trading binary options in the world's financial markets"
 msgstr "crwdns40085:0crwdne40085:0"
 
@@ -12024,9 +12249,6 @@ msgstr "crwdns122040:0crwdne122040:0"
 
 msgid "The provisions of this agreement or any orders and any applicable laws will not be breached or violated."
 msgstr "crwdns55670:0crwdne55670:0"
-
-msgid "The reason should be between 5 and 250 characters"
-msgstr "crwdns159062:0crwdne159062:0"
 
 msgid "The requested transfer would reduce the client's Account Balance to less than the Margin required for the client's Open Positions."
 msgstr "crwdns56502:0crwdne56502:0"
@@ -12355,6 +12577,9 @@ msgstr "crwdns118290:0%1crwdne118290:0"
 msgid "This document (the \"Agreement\") sets out the terms and conditions between \"the Company\", which is Deriv Services Ltd, and the person who has applied for this programme (\"the Affiliate\"), in relation to the Affiliate's application to set up an affiliate account (and membership of the affiliate programme if the Affiliate's application is deemed successful)."
 msgstr "crwdns118292:0crwdne118292:0"
 
+msgid "This feature is available to virtual accounts only."
+msgstr "crwdns163214:0crwdne163214:0"
+
 msgid "This feature is not relevant to virtual-money accounts."
 msgstr "crwdns40159:0crwdne40159:0"
 
@@ -12420,6 +12645,9 @@ msgstr "crwdns56146:0%1crwdne56146:0"
 
 msgid "This obligation encompasses the prohibition of unlawful payments or the granting of any form of unlawful benefits to public officials, business partners, employees, family members, or any other partners."
 msgstr "crwdns55786:0crwdne55786:0"
+
+msgid "This page is not available in your country of residence."
+msgstr "crwdns163216:0crwdne163216:0"
 
 msgid "This page is only available to logged out clients."
 msgstr "crwdns52504:0crwdne52504:0"
@@ -12523,9 +12751,6 @@ msgstr "crwdns56528:0crwdne56528:0"
 msgid "To change your name, date of birth, country of residence, email, or tax information, please contact %1Customer Support%2."
 msgstr "crwdns52668:0%1Ccrwdnd52668:0%2crwdne52668:0"
 
-msgid "To close your account, complete the following steps:"
-msgstr "crwdns159066:0crwdne159066:0"
-
 msgid "To create a MetaTrader 5 account:"
 msgstr "crwdns67002:0crwdne67002:0"
 
@@ -12559,6 +12784,9 @@ msgstr "crwdns43248:0%1crwdnd43248:0%2crwdne43248:0"
 msgid "To maintain Open Positions, the client is required to have sufficient Account Equity to cover any Margin Requirement. If a client's Margin Level is less than the Margin Level set for their account, the client has entered into a Margin Call and is required to increase their Margin Level above the account's specified level in order to avoid a Stop Out to occur. The client may not be able to place an Order to open a transaction unless there is sufficient Account Equity to cover the Total Margin."
 msgstr "crwdns57004:0crwdne57004:0"
 
+msgid "To many attempts. Please try again in a few minutes"
+msgstr "crwdns162204:0crwdne162204:0"
+
 msgid "To open a bank account, we will need to verify your identity."
 msgstr "crwdns158572:0crwdne158572:0"
 
@@ -12574,11 +12802,11 @@ msgstr "crwdns118294:0crwdne118294:0"
 msgid "To provide the client with a better experience, some of the services offered by %1 may require permission to access the client's cloud storage services, such as Google Drive, to save or load DBot trading strategies. In such instances"
 msgstr "crwdns87380:0%1crwdne87380:0"
 
+msgid "To receive the minimum commission (0.01 in any currency) allowed by the system, the minimum volume requirement is calculated based on the following formulas:"
+msgstr "crwdns161624:0crwdne161624:0"
+
 msgid "To reset your password, enter the email address you used to create your account into the field below and click 'Reset password'."
 msgstr "crwdns40208:0crwdne40208:0"
-
-msgid "To reset your trading or investor password, please click the button below:"
-msgstr "crwdns159472:0crwdne159472:0"
 
 msgid "To smoothly verify you, we need a better photo"
 msgstr "crwdns158574:0crwdne158574:0"
@@ -12603,9 +12831,6 @@ msgstr "crwdns40212:0crwdne40212:0"
 
 msgid "Token name"
 msgstr "crwdns53674:0crwdne53674:0"
-
-msgid "Too addictive"
-msgstr "crwdns159068:0crwdne159068:0"
 
 msgid "Too many failed attempts"
 msgstr "crwdns158576:0crwdne158576:0"
@@ -12808,6 +13033,9 @@ msgstr "crwdns121124:0crwdne121124:0"
 msgid "Trading Limits"
 msgstr "crwdns40257:0crwdne40257:0"
 
+msgid "Trading Password Reset"
+msgstr "crwdns162206:0crwdne162206:0"
+
 msgid "Trading Platforms"
 msgstr "crwdns40258:0crwdne40258:0"
 
@@ -12861,6 +13089,15 @@ msgstr "crwdns55808:0crwdne55808:0"
 
 msgid "Trading on %1 can become addictive. If you feel the need to exclude yourself from the website, please use the %2self-exclusion facilities%3."
 msgstr "crwdns51090:0%1crwdnd51090:0%2scrwdnd51090:0%3crwdne51090:0"
+
+msgid "Trading password"
+msgstr "crwdns162208:0crwdne162208:0"
+
+msgid "Trading password reset"
+msgstr "crwdns162210:0crwdne162210:0"
+
+msgid "Trading password — a new, easy way to sign in to your MT5 accounts"
+msgstr "crwdns162212:0crwdne162212:0"
 
 msgid "Trading platforms"
 msgstr "crwdns50436:0crwdne50436:0"
@@ -12982,6 +13219,9 @@ msgstr "crwdns40291:0crwdne40291:0"
 msgid "Try WebTrader"
 msgstr "crwdns43603:0crwdne43603:0"
 
+msgid "Try again"
+msgstr "crwdns162214:0crwdne162214:0"
+
 msgid "Try now"
 msgstr "crwdns157632:0crwdne157632:0"
 
@@ -13087,6 +13327,12 @@ msgstr "crwdns90164:0crwdne90164:0"
 msgid "USD"
 msgstr "crwdns42475:0crwdne42475:0"
 
+msgid "USD 1"
+msgstr "crwdns161626:0crwdne161626:0"
+
+msgid "USD 10"
+msgstr "crwdns161628:0crwdne161628:0"
+
 msgid "USD Coin"
 msgstr "crwdns125062:0crwdne125062:0"
 
@@ -13158,6 +13404,9 @@ msgstr "crwdns50522:0crwdne50522:0"
 
 msgid "Unless otherwise advised, DIEL shall treat a client as a retail client. Clients may also request, by writing to DIEL, to change the category in which they have been classified, and this may have an effect on the level of protection afforded to them. DIEL will assess the client's knowledge and experience versus the appropriateness of the requested service/investment product."
 msgstr "crwdns122054:0crwdne122054:0"
+
+msgid "Unlink"
+msgstr "crwdns162216:0crwdne162216:0"
 
 msgid "Unsupported browser"
 msgstr "crwdns158582:0crwdne158582:0"
@@ -13300,8 +13549,20 @@ msgstr "crwdns55862:0%1crwdnd55862:0%1crwdne55862:0"
 msgid "Use their best endeavours to attract potential clients for Binary"
 msgstr "crwdns56544:0crwdne56544:0"
 
+msgid "Use this password to grant viewing access to another user. While they may view your trading account, they will not be able to trade or take any other actions. If this is the first time you try to create a password, or you have forgotten your password, please reset it."
+msgstr "crwdns162218:0crwdne162218:0"
+
+msgid "Use this to log in and trade with MT5."
+msgstr "crwdns162220:0crwdne162220:0"
+
+msgid "Use this to log in to Binary.com, SmartTrader, Binary Bot, and Webtrader."
+msgstr "crwdns162222:0crwdne162222:0"
+
 msgid "Use to the utmost benefit any possible additional features that some payment processors offer"
 msgstr "crwdns68412:0crwdne68412:0"
+
+msgid "Use trading password to sign in to any of your MT5 accounts when using MT5 apps on your mobile or other devices."
+msgstr "crwdns162224:0crwdne162224:0"
 
 msgid "Use, perform, and display the Programmer's Application and its content for purposes of marketing, demonstrating, and making the Programmer's Application available to the Company's clients."
 msgstr "crwdns55866:0crwdne55866:0"
@@ -13423,6 +13684,9 @@ msgstr "crwdns40383:0crwdne40383:0"
 msgid "Virtual Account"
 msgstr "crwdns40384:0crwdne40384:0"
 
+msgid "Virtual accounts do not have Payment Agent services."
+msgstr "crwdns161736:0crwdne161736:0"
+
 msgid "Visa is an international company that supports digital payments around the world, most commonly through their brand of credit and debit cards. For more information, please visit %1."
 msgstr "crwdns52814:0%1crwdne52814:0"
 
@@ -13479,9 +13743,6 @@ msgstr "crwdns40397:0crwdne40397:0"
 
 msgid "Want to telecommute?"
 msgstr "crwdns40399:0crwdne40399:0"
-
-msgid "Warning!"
-msgstr "crwdns123532:0crwdne123532:0"
 
 msgid "Warranties"
 msgstr "crwdns40401:0crwdne40401:0"
@@ -13689,6 +13950,9 @@ msgstr "crwdns52450:0crwdne52450:0"
 
 msgid "We’ll update your limits. Click %1Agree and accept%2 to acknowledge that you are fully responsible for your actions, and we are not liable for any addiction or loss."
 msgstr "crwdns156216:0%1crwdnd156216:0%2crwdne156216:0"
+
+msgid "We’ve sent you an email"
+msgstr "crwdns162226:0crwdne162226:0"
 
 msgid "What about instant execution? In this case, your order is placed at the price that's available at that time. Requotes are possible if the price fluctuates a great deal before the order execution is complete."
 msgstr "crwdns53530:0crwdne53530:0"
@@ -14056,6 +14320,9 @@ msgstr "crwdns43497:0crwdne43497:0"
 msgid "Withdraw funds from your MT5 account"
 msgstr "crwdns43159:0crwdne43159:0"
 
+msgid "Withdraw your funds"
+msgstr "crwdns162568:0crwdne162568:0"
+
 msgid "Withdrawal"
 msgstr "crwdns41824:0crwdne41824:0"
 
@@ -14134,6 +14401,9 @@ msgstr "crwdns52474:0crwdne52474:0"
 msgid "Written limits and self-exclusion"
 msgstr "crwdns40580:0crwdne40580:0"
 
+msgid "XLM/USD"
+msgstr "crwdns161630:0crwdne161630:0"
+
 msgid "XMR vs US dollar"
 msgstr "crwdns159348:0crwdne159348:0"
 
@@ -14182,12 +14452,6 @@ msgstr "crwdns52478:0crwdne52478:0"
 msgid "You are selling the base currency and buying the quote currency."
 msgstr "crwdns42536:0crwdne42536:0"
 
-msgid "You can %1open a cryptocurrency%2 account without closing your fiat currency account."
-msgstr "crwdns159070:0%1ocrwdnd159070:0%2crwdne159070:0"
-
-msgid "You can %1open a real account%2 without closing your demo account."
-msgstr "crwdns159072:0%1ocrwdnd159072:0%2crwdne159072:0"
-
 msgid "You can %1set a new currency%2 before you deposit for the first time or create an MT5 account."
 msgstr "crwdns53260:0%1scrwdnd53260:0%2crwdne53260:0"
 
@@ -14224,14 +14488,11 @@ msgstr "crwdns53264:0crwdne53264:0"
 msgid "You can now return to your computer to continue"
 msgstr "crwdns158622:0crwdne158622:0"
 
-msgid "You can open a fiat currency account without closing your cryptocurrency account."
-msgstr "crwdns159074:0crwdne159074:0"
+msgid "You can only subscribe to one signal provider with one %1 account at any given time. You can use your signal on up to 3 computers."
+msgstr "crwdns161190:0%1crwdne161190:0"
 
 msgid "You can sell your contract before expiry to keep any profit you may have made or to minimise your loss."
 msgstr "crwdns40628:0crwdne40628:0"
-
-msgid "You can set limits to your account and trading activities. Go to the %1self-exclusion page%2 to manage your account limits."
-msgstr "crwdns159076:0%1scrwdnd159076:0%2crwdne159076:0"
 
 msgid "You can top up your demo account with an additional %1 if your balance is %2 or less."
 msgstr "crwdns53004:0%1crwdnd53004:0%2crwdne53004:0"
@@ -14254,20 +14515,20 @@ msgstr "crwdns90180:0%1crwdne90180:0"
 msgid "You expect the %1 to rise in value so you can sell it back for a profit."
 msgstr "crwdns90182:0%1crwdne90182:0"
 
-msgid "You have %1. You may open one or %2more cryptocurrency%3 accounts:"
-msgstr "crwdns159078:0%1crwdnd159078:0%2crwdnd159078:0%3crwdne159078:0"
+msgid "You have a new binary password."
+msgstr "crwdns162228:0crwdne162228:0"
 
-msgid "You have a %1 account. You may %2change your currency%3 to any of the following as long as you haven't made a deposit or created an MT5 account:"
-msgstr "crwdns159080:0%1crwdnd159080:0%2ccrwdnd159080:0%3crwdne159080:0"
+msgid "You have a new trading password. Use this to log in to MetaTrader 5."
+msgstr "crwdns162230:0crwdne162230:0"
+
+msgid "You have a trading password for MT5"
+msgstr "crwdns162232:0crwdne162232:0"
 
 msgid "You have already withdrawn %1%2 in aggregate over the last %3 days."
 msgstr "crwdns90242:0%1crwdnd90242:0%2crwdnd90242:0%3crwdne90242:0"
 
 msgid "You have already withdrawn %1%2."
 msgstr "crwdns90244:0%1crwdnd90244:0%2crwdne90244:0"
-
-msgid "You have an account but have not set a currency. You may %1choose one%2 of these as your account currency"
-msgstr "crwdns159082:0%1ccrwdnd159082:0%2crwdne159082:0"
 
 msgid "You have created all accounts available to you."
 msgstr "crwdns40638:0crwdne40638:0"
@@ -14299,8 +14560,8 @@ msgstr "crwdns90184:0crwdne90184:0"
 msgid "You have reached the rate limit of requests per second. Please try later."
 msgstr "crwdns40644:0crwdne40644:0"
 
-msgid "You have reached the withdrawal limit."
-msgstr "crwdns43272:0crwdne43272:0"
+msgid "You have reached the withdrawal limit. Please upload your proof of identity and address to lift your withdrawal limit and proceed with your withdrawal."
+msgstr "crwdns161632:0crwdne161632:0"
 
 msgid "You have sold this contract at %1 %2"
 msgstr "crwdns40648:0%1crwdnd40648:0%2crwdne40648:0"
@@ -14353,6 +14614,9 @@ msgstr "crwdns84809:0crwdne84809:0"
 msgid "You must have a fast and stable Internet connection as screenshots of your documents are required for our records"
 msgstr "crwdns40674:0crwdne40674:0"
 
+msgid "You must have an MQL5 community account to subscribe to trading signals. If you don’t have an account yet, please go to %1MQL5.com%2 to register."
+msgstr "crwdns161192:0%1crwdnd161192:0%2crwdne161192:0"
+
 msgid "You must have:"
 msgstr "crwdns53094:0crwdne53094:0"
 
@@ -14370,9 +14634,6 @@ msgstr "crwdns42546:0crwdne42546:0"
 
 msgid "You want to sell that currency pair if you think the base currency will go down."
 msgstr "crwdns42547:0crwdne42547:0"
-
-msgid "You will %1NOT%2 be able to log in again."
-msgstr "crwdns123534:0%1crwdnd123534:0%2crwdne123534:0"
 
 msgid "You will also encourage security awareness throughout the organisation via regular communication on security best practices and the latest online threats."
 msgstr "crwdns52480:0crwdne52480:0"
@@ -14407,6 +14668,9 @@ msgstr "crwdns40710:0crwdne40710:0"
 msgid "You will increase awareness of your services and generate new business."
 msgstr "crwdns40711:0crwdne40711:0"
 
+msgid "You will need to set a password to complete the process."
+msgstr "crwdns162234:0crwdne162234:0"
+
 msgid "You will not be able to change your fiat account's currency after creating this MT5 account. Are you sure you want to proceed?"
 msgstr "crwdns53272:0crwdne53272:0"
 
@@ -14421,6 +14685,9 @@ msgstr "crwdns40716:0crwdne40716:0"
 
 msgid "You win the payout if the market price ends in the digit you have selected."
 msgstr "crwdns40717:0crwdne40717:0"
+
+msgid "You won’t be able to trade manually with the same %1 MT5 account once you’ve subscribed to a signal."
+msgstr "crwdns161194:0%1crwdne161194:0"
 
 msgid "You'll need to restart your verification on your computer"
 msgstr "crwdns158624:0crwdne158624:0"
@@ -14467,6 +14734,9 @@ msgstr "crwdns68468:0%1pcrwdnd68468:0%3crwdnd68468:0%2pcrwdnd68468:0%3crwdne6846
 msgid "Your %1proof of identity%3 and %2proof of address%3 have not been verified."
 msgstr "crwdns123182:0%1pcrwdnd123182:0%3crwdnd123182:0%2pcrwdnd123182:0%3crwdne123182:0"
 
+msgid "Your Binary account is unlinked from %1. Use %2your email and password for future log in."
+msgstr "crwdns162236:0%1crwdnd162236:0%2crwdne162236:0"
+
 msgid "Your Client will receive an email notification informing him/her that the transfer has been processed."
 msgstr "crwdns40723:0crwdne40723:0"
 
@@ -14486,7 +14756,10 @@ msgid "Your account is fully authenticated and your withdrawal limits have been 
 msgstr "crwdns40731:0crwdne40731:0"
 
 msgid "Your account is now deactivated."
-msgstr "crwdns159590:0crwdne159590:0"
+msgstr "crwdns163218:0crwdne163218:0"
+
+msgid "Your account is now deactived."
+msgstr "crwdns162570:0crwdne162570:0"
 
 msgid "Your account is restricted. Kindly %1contact customer support%2 for assistance."
 msgstr "crwdns40733:0%1ccrwdnd40733:0%2crwdne40733:0"
@@ -14505,6 +14778,9 @@ msgstr "crwdns45898:0crwdne45898:0"
 
 msgid "Your application will then be reviewed by our compliance and marketing departments. Once approved, we will put you live in our %1payment agent%2 list."
 msgstr "crwdns53556:0%1pcrwdnd53556:0%2crwdne53556:0"
+
+msgid "Your binary password has been changed. Please log in again."
+msgstr "crwdns162238:0crwdne162238:0"
 
 msgid "Your cashier is locked."
 msgstr "crwdns43161:0crwdne43161:0"
@@ -14563,12 +14839,6 @@ msgstr "crwdns40748:0%1crwdne40748:0"
 msgid "Your password cannot be the same as your email address."
 msgstr "crwdns125038:0crwdne125038:0"
 
-msgid "Your password has been changed. Please log in again."
-msgstr "crwdns40750:0crwdne40750:0"
-
-msgid "Your password has been successfully reset. Please log into your account using your new password."
-msgstr "crwdns40751:0crwdne40751:0"
-
 msgid "Your professional client request is %1not approved%2."
 msgstr "crwdns52962:0%1ncrwdnd52962:0%2crwdne52962:0"
 
@@ -14623,6 +14893,12 @@ msgstr "crwdns40757:0%1hecrwdnd40757:0%2crwdne40757:0"
 msgid "Your token has expired or is invalid. Please click <a href=\"%1\">here</a> to restart the verification process."
 msgstr "crwdns40758:0%1crwdne40758:0"
 
+msgid "Your trading password has been changed. Please use this to log in to MetaTrader 5."
+msgstr "crwdns162240:0crwdne162240:0"
+
+msgid "Your trading password has been set. Please use this to log in to MetaTrader 5."
+msgstr "crwdns162242:0crwdne162242:0"
+
 msgid "Your trading statistics since %1."
 msgstr "crwdns40759:0%1crwdne40759:0"
 
@@ -14647,8 +14923,8 @@ msgstr "crwdns86266:0crwdne86266:0"
 msgid "Your withdrawal limit is %1%2."
 msgstr "crwdns90248:0%1crwdnd90248:0%2crwdne90248:0"
 
-msgid "You’ll be logged out automatically."
-msgstr "crwdns123536:0crwdne123536:0"
+msgid "You’ll need to fund your MQL5 account to subscribe to paid signals. Learn %1how to fund your account%2."
+msgstr "crwdns161196:0%1hocrwdnd161196:0%2crwdne161196:0"
 
 msgid "ZEC vs US dollar"
 msgstr "crwdns159356:0crwdne159356:0"
@@ -14691,12 +14967,6 @@ msgstr "crwdns57012:0crwdne57012:0"
 
 msgid "a. Access the MT5 trading platform through the direct link %1 from DIEL's web interface, or"
 msgstr "crwdns122068:0%1crwdne122068:0"
-
-msgid "account"
-msgstr "crwdns159088:0crwdne159088:0"
-
-msgid "accounts"
-msgstr "crwdns159090:0crwdne159090:0"
 
 msgid "an Order to execute a transaction to close an Open Position when the price reaches the client's specified price"
 msgstr "crwdns57014:0crwdne57014:0"
@@ -14784,9 +15054,6 @@ msgstr "crwdns158640:0crwdne158640:0"
 
 msgid "paysafecard offers a voucher-based online payment method that does not require a bank account, credit card, or other personal information. For more information, please visit %1."
 msgstr "crwdns52820:0%1crwdne52820:0"
-
-msgid "per lot"
-msgstr "crwdns66622:0crwdne66622:0"
 
 msgid "ratio of Account Equity to Total Margin, expressed as a percentage"
 msgstr "crwdns55996:0crwdne55996:0"

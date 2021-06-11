@@ -4,6 +4,7 @@ const BinarySocket     = require('../base/socket');
 const MetaTrader       = require('../pages/user/metatrader/metatrader');
 const State            = require('../../_common/storage').State;
 const updateTabDisplay = require('../../_common/tab_selector').updateTabDisplay;
+const Client = require('../base/client');
 
 /*
     data-show attribute controls element visibility based on
@@ -45,10 +46,11 @@ const updateTabDisplay = require('../../_common/tab_selector').updateTabDisplay;
             data-show='SVG'         -> throws error
 */
 
-const visible_classname = 'data-show-visible';
-const mt_company_rule   = 'mtcompany';
-const eu_country_rule   = 'eucountry';
-const uk_country_rule   = 'gbcountry';
+const visible_classname    = 'data-show-visible';
+const mt_company_rule      = 'mtcompany';
+const eu_country_rule      = 'eucountry';
+const uk_country_rule      = 'gbcountry';
+const options_blocked_rule = 'optionsblocked';
 
 const ContentVisibility = (() => {
     let $center_select_m;
@@ -137,6 +139,7 @@ const ContentVisibility = (() => {
         const rule_set_has_mt         = rule_set.has(mt_company_rule);
         const rule_set_has_eu_country = rule_set.has(eu_country_rule);
         const rule_set_has_uk_country = rule_set.has(uk_country_rule);
+        const options_blocked         = rule_set.has(options_blocked_rule);
 
         let show_element = false;
 
@@ -155,6 +158,9 @@ const ContentVisibility = (() => {
         // Check if list of mt5fin_company_shortcodes is array type and filter with defined mt5fin rules
         if (Array.isArray(arr_mt5fin_shortcodes)) {
             if (arr_mt5fin_shortcodes.some(el => mt5fin_rules.includes(el))) show_element = !is_exclude;
+        }
+        if (options_blocked && Client.isOptionsBlocked()) {
+            show_element = !is_exclude;
         }
 
         return show_element;

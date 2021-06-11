@@ -40,6 +40,7 @@ module.exports = [
     ['user/reality_check_frequency',            'app/user/reality_check/frequency',            'default',    'Reality Check'],
     ['user/reality_check_summary',              'app/user/reality_check/summary',              'default',    'Reality Check'],
     ['user/reset_passwordws',                   'app/user/reset_password',                     'default',    'Password Reset'],
+    ['user/trading_reset_passwordws',           'app/user/trading_reset_password',             'default',    'Trading Password Reset'],
     ['user/securityws',                         'app/user/security',                           'default',    'Security'],
     ['user/security/closure',                   'app/user/security/account_closure',           'default',    'Account Closure'],
     ['user/security/api_tokenws',               'app/user/security/api_token',                 'default',    'API Token'],
@@ -71,11 +72,13 @@ module.exports = [
 
     // ==================== Section: "static" ====================
     ['404',                                     'static/404',                                  'full_width', '404'],
+    ['deactivated-account',                     'static/deactivated_account',                  'full_width', 'Account Deactivated'],
     ['home',                                    'static/home',                                 'full_width', 'Online trading platform for binary options on forex, stock indices, commodities and Synthetic indices'],
     ['keep-safe',                               'static/keep_safe',                            'full_width', 'Keep Safe'],
     ['tour',                                    'static/tour',                                 'full_width', 'Tour'],
     ['why-us',                                  'static/why_us',                               'full_width', 'Why Us'],
     ['platforms',                               'static/platforms',                            'full_width', 'Trading Platforms'],
+    ['mt5-signals',                             'static/mt5_signals',                          'full_width', 'MT5 Signals'],
 
     ['about-us',                                'static/about/index',                          'full_width', 'About Us'],
     ['asuncion',                                'static/about/asuncion',                       'full_width', 'Careers - Asunción'],

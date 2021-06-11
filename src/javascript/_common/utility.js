@@ -40,6 +40,41 @@ const getHighestZIndex = (selector = 'div,p,area,nav,section,header,canvas,aside
     return all.length ? Math.max(...all) : null;
 };
 
+const eu_countries = [
+    'it',
+    'de',
+    'fr',
+    'lu',
+    'gr',
+    'mf',
+    'es',
+    'sk',
+    'lt',
+    'nl',
+    'at',
+    'bg',
+    'si',
+    'cy',
+    'be',
+    'ro',
+    'hr',
+    'pt',
+    'pl',
+    'lv',
+    'ee',
+    'cz',
+    'fi',
+    'hu',
+    'dk',
+    'se',
+    'ie',
+    'im',
+    'gb',
+    'mt',
+];
+// check if client is from EU
+const isEuCountrySelected = selected_country => eu_countries.includes(selected_country);
+
 const downloadCSV = (csv_contents, filename = 'data.csv') => {
     if (navigator.msSaveBlob) { // IE 10+
         navigator.msSaveBlob(new Blob([csv_contents], { type: 'text/csv;charset=utf-8;' }), filename);
@@ -239,6 +274,9 @@ class PromiseClass {
     }
 }
 
+const lc_licenseID = 12049137;
+const lc_clientID = '66aa088aad5a414484c1fd1fa8a5ace7';
+
 module.exports = {
     showLoadingImage,
     getHighestZIndex,
@@ -246,6 +284,7 @@ module.exports = {
     template,
     isBinaryDomain,
     isEmptyObject,
+    isEuCountrySelected,
     isLoginPages,
     cloneObject,
     isDeepEqual,
@@ -259,4 +298,6 @@ module.exports = {
     getStaticHash,
     PromiseClass,
     removeObjProperties,
+    lc_licenseID,
+    lc_clientID,
 };
