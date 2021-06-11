@@ -1,5 +1,5 @@
-const isEuCountry           = require('./country_base').isEuCountry;
-const isUKCountry = require('./country_base').isUKCountry;
+const isEuCountry      = require('./country_base').isEuCountry;
+const isUKCountry      = require('./country_base').isUKCountry;
 const BinarySocket     = require('../base/socket');
 const MetaTrader       = require('../pages/user/metatrader/metatrader');
 const State            = require('../../_common/storage').State;
