@@ -19,7 +19,7 @@ const isEuCountry = () => {
 };
 
 const isIndonesia = () => State.getResponse('website_status.clients_country') === 'id';
-const isUKCountry = () => State.getResponse('website_status.clients_country') === 'gb';
+const isUKCountry = () => State.getResponse('website_status.clients_country') === 'gb' || Client.get('residence') === 'gb';
 
 const isExcludedFromCfd = () => {
     const cfd_excluded_regex = new RegExp('^fr$');
