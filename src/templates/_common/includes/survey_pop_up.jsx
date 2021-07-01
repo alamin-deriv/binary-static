@@ -11,7 +11,7 @@ const SurveyPopUp = () => (
                 'use strict';
                 if (!sKey) { return null; }
                 const match = document.cookie.match(new RegExp('(^| )' + sKey + '=([^;]+)'));
-                return match ? match[2] : null
+                return match[2] ? match[2] : null
             }
 
             const lang = getCookieItem('language');
