@@ -11,17 +11,20 @@ const SurveyPopUp = () => (
                 'use strict';
                 if (!sKey) { return null; }
                 const match = document.cookie.match(new RegExp('(^| )' + sKey + '=([^;]+)'));
-                return match[2] ? match[2] : null
+                return match ? match[2] : null
             }
 
-            lang = getCookieItem('language');
+            const lang = getCookieItem('language');
 
             if(lang === "EN") {
-               (function (t, e, s, o) { var n, c, l; t.SMCX = t.SMCX || [], e.getElementById(o) || (n = e.getElementsByTagName(s), c = n[n.length - 1], l = e.createElement(s), l.type = "text/javascript", l.async = !0, l.id = o, l.src = "https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd6GfzIDE5U4iBoGHViZI_2FNYtWH3wmgu5iu667yZdN8zw.js", c.parentNode.insertBefore(l, c)) })(window, document, "script", "smcx-sdk");
-            } else if (lang === "ES") {
-               (function (t, e, s, o) { var n, c, l; t.SMCX = t.SMCX || [], e.getElementById(o) || (n = e.getElementsByTagName(s), c = n[n.length - 1], l = e.createElement(s), l.type ="text/javascript", l.async = !0, l.id = o, l.src ="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd6GfzIDE5U4iBoGHViZI_2FNaPu6PYrJ5D3PUpQkB_2B0Q9j.js",c.parentNode.insertBefore(l,c))})(window,document,"script","smcx-sdk");
+                (function(t,e,s,o){var n,a,c;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),a=n[n.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=o,c.src="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd54WcWBAICVaH1t1TB2N_2FuafG8NT9RdA7dzeEpMXUbRf.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");
+            } else if (lang === "ID") {
+               (function (t, e, s, o) { var n, a, c; t.SMCX = t.SMCX || [], e.getElementById(o) || (n = e.getElementsByTagName(s), a = n[n.length - 1], c = e.createElement(s), c.type ="text/javascript", c.async = !0, c.id = o, c.src ="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd54WcWBAICVaH1t1TB2N_2FuYgyLVXFZ5_2FHCxeDJ4QrHoK.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");
+            }  else if (lang === "ES") {
+                (function (t, e, s, o) { var n, a, c; t.SMCX = t.SMCX || [], e.getElementById(o) || (n = e.getElementsByTagName(s), a = n[n.length - 1], c = e.createElement(s), c.type ="text/javascript", c.async = !0, c.id = o, c.src ="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd54WcWBAICVaH1t1TB2N_2FuYNLz_2BZJOhHAGxP6NXeNNC5.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");
             } else if (lang === "PT") {
-               (function (t, e, s, o) { var n, c, l; t.SMCX = t.SMCX || [], e.getElementById(o) || (n = e.getElementsByTagName(s), c = n[n.length - 1], l = e.createElement(s), l.type ="text/javascript", l.async = !0, l.id = o, l.src ="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd6GfzIDE5U4iBoGHViZI_2FNY8210JV7z00CXO94lyob2f.js",c.parentNode.insertBefore(l,c))})(window,document,"script","smcx-sdk");
+               (function (t, e, s, o) { var n, a, c; t.SMCX = t.SMCX || [], e.getElementById(o) || (n = e.getElementsByTagName(s), a = n[n.length - 1], c = e.createElement(s), c.type ="text/javascript", c.async = !0, c.id = o, c.src ="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd54WcWBAICVaH1t1TB2N_2FuZxmEac_2Bn8pCN8GVTdHEJU5.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");
+
             }
 
             ` }}
