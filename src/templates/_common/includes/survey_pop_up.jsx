@@ -17,7 +17,7 @@ const SurveyPopUp = () => (
             const lang = getCookieItem('language');
 
             if(lang === "EN") {
-                (function(t,e,s,o){var n,a,c;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),a=n[n.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=o,c.src="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd54WcWBAICVaH1t1TB2N_2FuafG8NT9RdA7dzeEpMXUbRf.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");
+                (function (t, e, s, o) { var n, a, c; t.SMCX = t.SMCX || [], e.getElementById(o) || (n = e.getElementsByTagName(s), a = n[n.length - 1], c = e.createElement(s), c.type ="text/javascript", c.async = !0, c.id = o, c.src ="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd4yQc4I8h7FHKcdAVRZxsP_2Bf6xhonamzIsR_2Fz9x9sNs8.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");
             } else if (lang === "ID") {
                (function (t, e, s, o) { var n, a, c; t.SMCX = t.SMCX || [], e.getElementById(o) || (n = e.getElementsByTagName(s), a = n[n.length - 1], c = e.createElement(s), c.type ="text/javascript", c.async = !0, c.id = o, c.src ="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd54WcWBAICVaH1t1TB2N_2FuYgyLVXFZ5_2FHCxeDJ4QrHoK.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");
             }  else if (lang === "ES") {
