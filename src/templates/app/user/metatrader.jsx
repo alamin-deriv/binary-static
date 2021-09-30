@@ -228,7 +228,7 @@ const Metatrader = () => (
                         ]}
                     />
 
-                    <AccountDesc
+                    {/* <AccountDesc
                         account_type={'financial_financial_stp'}
                         title={it.L('Financial STP Account')}
                         description={it.L('Our MetaTrader 5 Financial STP account provides you with tight spreads, higher ticket size and offers more products.')}
@@ -238,9 +238,9 @@ const Metatrader = () => (
                             it.L('Market execution'),
                             it.L('No commission'),
                         ]}
-                    />
+                    /> */}
 
-                    <AccountDesc
+                    {/* <AccountDesc
                         account_type={'gaming_financial'}
                         title={it.L('Synthetic Account')}
                         description={it.L('Our Synthetic account allows you to trade CFDs on Synthetic Indices - our proprietary synthetic assets that simulate market forces.')}
@@ -250,7 +250,7 @@ const Metatrader = () => (
                             it.L('Market execution'),
                             it.L('No commission'),
                         ]}
-                    />
+                    /> */}
                 </div>
                 <div id='frm_new_accounts'>
                     <form id='frm_new_account'>
