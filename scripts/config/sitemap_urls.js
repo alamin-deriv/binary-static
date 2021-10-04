@@ -36,7 +36,7 @@ module.exports = {
 
         ['metatrader/download',                'monthly', 0.80],
         ['metatrader/how-to-trade-mt5',        'monthly', 0.80],
-        ['metatrader/types-of-accounts',       'monthly', 0.80],
+        // ['metatrader/types-of-accounts',       'monthly', 0.80],
 
         // ==================== Section: "app" ====================
         ['cashier',                            'monthly', 0.80],

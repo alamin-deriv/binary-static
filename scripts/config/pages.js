@@ -122,7 +122,7 @@ module.exports = [
 
     ['metatrader/download',                     'static/metatrader/download',                  'default',     'Start Trading with MetaTrader 5'],
     ['metatrader/how-to-trade-mt5',             'static/metatrader/how_to_trade_mt5',          'default',     'How to Trade in MetaTrader 5'],
-    ['metatrader/types-of-accounts',            'static/metatrader/types_of_accounts',         'default',     'Types of MetaTrader 5 accounts'],
+    // ['metatrader/types-of-accounts',            'static/metatrader/types_of_accounts',         'default',     'Types of MetaTrader 5 accounts'],
 
     // ==================== Section: "landing_pages" ====================
     ['graduates',                               'landing_pages/graduate_program',                 null,        'Binary.com Graduate Program',        'NOT-en'],
