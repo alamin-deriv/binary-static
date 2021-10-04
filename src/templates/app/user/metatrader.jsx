@@ -22,11 +22,11 @@ const AccountDesc = ({ title, description, account_type, landing_company_short, 
                     <li key={i}>{item}</li>
                 ))}
             </ul>
-            <p className='center-text-m'>
+            {/* <p className='center-text-m'>
                 <a className='button button-full-width-m' href={it.url_for('metatrader/types-of-accounts')} target='_blank'>
                     <span>{it.L('Compare MetaTrader 5 accounts')}</span>
                 </a>
-            </p>
+            </p> */}
         </div>
     );
 };
@@ -274,7 +274,7 @@ const Metatrader = () => (
                                             { type: 'template_real', desc: 'financial' },
                                         ]}
                                     >
-                                        <a className='hint hl-types-of-accounts' href={it.url_for('metatrader/types-of-accounts')} target='_blank'>{it.L('Which account is right for me?')}</a>
+                                        {/* <a className='hint hl-types-of-accounts' href={it.url_for('metatrader/types-of-accounts')} target='_blank'>{it.L('Which account is right for me?')}</a> */}
                                     </TypeGroup>
                                 </div>
                                 <div id='authenticate_loading' className='invisible'><Loading /></div>
