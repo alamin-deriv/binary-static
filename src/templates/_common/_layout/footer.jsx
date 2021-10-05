@@ -227,7 +227,7 @@ const Footer = () => (
                     <div className='gr-12'>
                         <div className='about-binary'>
                             <p>
-                                {it.L('[_1] is an award-winning online trading provider that helps its clients to trade on financial markets through binary options and CFDs. Trading binary options and CFDs on Synthetic Indices is classified as a gambling activity. Remember that gambling can be addictive – please play responsibly. Learn more about [_2]Responsible Trading[_3]. Some products are not available in all countries. This website\'s services are not made available in certain countries such as the USA, Canada, Hong Kong, or to persons under age 18.', it.website_name, `<a href="${it.url_for('responsible-trading')}">`, '</a>')}
+                                {it.L('[_1] is an award-winning online trading provider that helps its clients to trade on financial markets through binary options and CFDs. Trading binary options on Synthetic Indices is classified as a gambling activity. Remember that gambling can be addictive – please play responsibly. Learn more about [_2]Responsible Trading[_3]. Some products are not available in all countries. This website\'s services are not made available in certain countries such as the USA, Canada, Hong Kong, or to persons under age 18.', it.website_name, `<a href="${it.url_for('responsible-trading')}">`, '</a>')}
                             </p>
                         </div>
                     </div>
