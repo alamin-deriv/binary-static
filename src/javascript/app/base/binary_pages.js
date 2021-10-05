@@ -165,7 +165,7 @@ const pages_config = {
     'set-currency'           : { module: SetCurrency,                is_authenticated: true, only_real: true, needs_currency: true },
     'telegram-bot'           : { module: TelegramBot,                is_authenticated: true },
     'terms-and-conditions'   : { module: TermsAndConditions },
-    'types-of-accounts'      : { module: TypesOfAccounts },
+    // 'types-of-accounts'      : { module: TypesOfAccounts },
     'video-facility'         : { module: VideoFacility,              is_authenticated: true, only_real: true },
     'why-us'                 : { module: WhyUs },
 };
