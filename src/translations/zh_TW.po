@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-10-01 11:03\n"
+"PO-Revision-Date: 2021-10-06 08:19\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -1598,7 +1598,7 @@ msgid "Appropriateness"
 msgstr "合適性"
 
 msgid "Appropriateness Test: WARNING:"
-msgstr ""
+msgstr "合適性測試:警告:"
 
 msgid "Appropriateness test"
 msgstr "合適性測試"
@@ -2207,7 +2207,7 @@ msgid "Binary options trading is not available in your country."
 msgstr "您的國家無法進行二元期權交易。"
 
 msgid "Binary options trading is not available in your financial account."
-msgstr ""
+msgstr "您的金融帳戶無法進行二元期權交易。"
 
 msgid "Binary options trading is relatively easy. You can purchase a contract in just three steps:"
 msgstr "相對說來，二元期權交易是很容易的。您可以通過三個簡單步驟購買合約："
@@ -2692,6 +2692,9 @@ msgstr "從三種主要交易類型中挑選："
 msgid "Choose scopes:"
 msgstr "選擇範圍:"
 
+msgid "Choose the document type"
+msgstr "選擇文件類型"
+
 msgid "Choose the market, trade type, duration, barrier, and payout."
 msgstr "選擇市場、交易類型、期限、障礙和賠付額。"
 
@@ -2738,10 +2741,10 @@ msgid "Click OK to proceed."
 msgstr "按一下「確定」繼續。"
 
 msgid "Click here to open a Financial Account"
-msgstr ""
+msgstr "按一下此處開立財務帳戶"
 
 msgid "Click here to open a Gaming account"
-msgstr ""
+msgstr "按一下此處開立博彩帳戶"
 
 msgid "Click here to open a Real Account"
 msgstr "按一下此處開立真實帳戶"
@@ -3014,7 +3017,7 @@ msgid "Company's rights"
 msgstr "公司權利"
 
 msgid "Compare MetaTrader 5 accounts"
-msgstr ""
+msgstr "比較MetaTrader 5 帳戶"
 
 msgid "Compensation under Investor Compensation Scheme"
 msgstr "投資者補償計畫下的補償"
@@ -3389,13 +3392,13 @@ msgid "Create Account"
 msgstr "開立帳戶"
 
 msgid "Create MT5 password"
-msgstr ""
+msgstr "建立 MT5 密碼"
 
 msgid "Create New Demo Account"
 msgstr "開設新的模擬帳戶"
 
 msgid "Create a MT5 password. You can use this password for all your MT5 accounts."
-msgstr ""
+msgstr "建立 MT5 密碼。您可在所有 MT5 帳戶使用此密碼。"
 
 msgid "Create a MetaTrader 5 account"
 msgstr "建立MetaTrader 5 帳戶"
@@ -3434,7 +3437,7 @@ msgid "Create mathematical/statistical models for pricing, analyse fat tails to 
 msgstr "建立用於定價的數學/統計模型, 分析肥尾效應以評估保證金要求, 並管理奇異期權、外匯和差價合約的風險"
 
 msgid "Create new demo account"
-msgstr ""
+msgstr "開設新的模擬帳戶"
 
 msgid "Create new token"
 msgstr "新增新權杖"
@@ -3443,7 +3446,7 @@ msgid "Create or Manage Accounts"
 msgstr "開立或管理帳戶"
 
 msgid "Create or reset password"
-msgstr ""
+msgstr "建立或重設密碼"
 
 msgid "Create strategies against potential risks that might arise due to disruptive innovation"
 msgstr "針對因破壞性創新而可能產生的潛在風險制定策略"
@@ -3740,7 +3743,7 @@ msgid "Demo Accounts"
 msgstr "模擬帳戶"
 
 msgid "Demo Financial"
-msgstr ""
+msgstr "示範財務"
 
 msgid "Demo Financial STP"
 msgstr "模擬金融 STP"
@@ -4485,6 +4488,9 @@ msgstr "輸入以下應用程式生成的身份驗證代碼:"
 
 msgid "Enter your MT5 password to add a %1 MT5 %2 account."
 msgstr "輸入 MT5 密碼以新增 %1 MT5 %2 帳戶。"
+
+msgid "Enter your document number"
+msgstr "輸入文件號"
 
 msgid "Enter your email"
 msgstr "請輸入您的電子郵件"
@@ -5261,7 +5267,7 @@ msgid "Forex trading involves buying or selling these \"currency pairs\". When y
 msgstr "外匯交易涉及買入或賣出這些「貨幣對」。當您買入例如歐元/美元的貨幣對時，意味著您正在買入歐元並同時賣出美元。"
 
 msgid "Forgot password?"
-msgstr ""
+msgstr "忘記密碼?"
 
 msgid "Founded in 1999, %1 is one of the oldest and most respected names in online binary trading."
 msgstr "%1 成立於1999年，是線上二元期權交易行業中歷史最悠久、享有最高聲譽之佼佼者之一。"
@@ -5375,10 +5381,10 @@ msgid "GamCare"
 msgstr "GamCare賭博關懷協會"
 
 msgid "Gaming"
-msgstr ""
+msgstr "遊戲"
 
 msgid "Gaming Account"
-msgstr ""
+msgstr "博彩帳戶"
 
 msgid "General"
 msgstr "一般條款"
@@ -5466,6 +5472,9 @@ msgstr "術語表"
 
 msgid "Go"
 msgstr "開始"
+
+msgid "Go Back"
+msgstr "返回"
 
 msgid "Go back"
 msgstr "返回"
@@ -6359,7 +6368,7 @@ msgid "In providing IB services, the Introducing Broker shall"
 msgstr "提供IB服務時，推介經紀須"
 
 msgid "In providing our services to you, we are required to obtain information from you in order to assess whether a given product or service is appropriate for you (that is, whether you possess the experience and knowledge to understand the risks involved)."
-msgstr ""
+msgstr "為了給您提供服務，我們需要向您獲取資訊，以便評估某項產品或服務是否適合您（也就是說，要看您是否擁有足夠的經驗和知識來了解相關的風險）。"
 
 msgid "In providing the Agent's services, the Agent shall do the following:"
 msgstr "提供代理服務時，代理必須辦理以下各項:"
@@ -6391,8 +6400,8 @@ msgstr "歐盟國家的金融產品交易由 Deriv Investments (Europe) Limited 
 msgid "In the EU, financial products are offered by Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority (%1licence no. IS/70156%2)."
 msgstr "歐盟國家的金融產品交易由 Deriv Investments (Europe) Limited 提供，地址為W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta，由馬爾他金融服務機構監管為3級投資服務提供商 (執照號碼為%1IS/70156%2)。"
 
-msgid "In the Isle of Man and the UK, Synthetic indices are offered by Deriv (MX) Ltd, Millennium House, Level 1, Victoria Road, Douglas IM2 4RW, Isle of Man; licensed and regulated in Great Britain by (1) the Gambling Commission under %1account no. 39172%3 and by (2) the Gambling Supervision Commission in the Isle of Man (%2view licence%3)."
-msgstr "英國和曼島的綜合指數交易由 Deriv (MX) Ltd. 提供，地址為：Deriv (MX) Ltd, Millennium House, Level 1, Victoria Road, Douglas IM2 4RW, Isle of Man，已經在英國由(1)博彩委員會通過%1帳號39172%3及由 (2) 曼島博彩監管委員會授予執照和監管 (%2 檢視執照%3）。"
+msgid "In the Isle of Man and the UK, virtual events based bets on synthetic indices offered by Deriv (MX) Ltd, Millennium House, Level 1, Victoria Road, Douglas IM2 4RW, Isle of Man; licensed and regulated in Great Britain by (1) the Gambling Commission under account no. 39172 and by (2) the Gambling Supervision Commission in the Isle of Man (%2view licence%3)."
+msgstr "英國和曼島基於虛擬事件的綜合指數博彩由 Deriv (MX) Ltd. 提供，地址為：Deriv (MX) Ltd, Millennium House, Level 1, Victoria Road, Douglas IM2 4RW, Isle of Man，已經在英國由(1)博彩委員會通過帳號39172及由 (2) 曼島博彩監管委員會授予執照和監管 (%2 檢視執照%3）。"
 
 msgid "In the UK, our clients trade through Deriv (MX) Ltd and Deriv Investments (Europe) Limited. In the Isle of Man, they trade through Deriv (MX) Ltd. In the European Union (except UK), they trade through Deriv (Europe) Limited and Deriv Investments (Europe) Limited. In the rest of the world, they trade through Deriv (SVG) LLC, Deriv (V) Ltd, Deriv (BVI) Ltd and Deriv (FX) Ltd."
 msgstr "在英國，我們的客戶通過 Deriv (MX) Ltd 和 Deriv Investments (Europe) Limited 進行交易。在曼島，他們通過 Deriv (MX) Ltd 進行交易。在歐盟（除了英國），他們通過 Deriv (Europe) Limited 和 Deriv Investments (Europe) Limited 進行交易。在全世界其他地區，他們通過 Deriv (SVG) LLC，Deriv (V) Ltd，Deriv (BVI) Ltd 和 Deriv (FX) Ltd 進行交易。"
@@ -6435,6 +6444,9 @@ msgstr "在這種情況下，您預測價格會下跌。這也被稱為「持空
 
 msgid "In this case, you predict that the price will rise. This is also known as 'going long'."
 msgstr "在這種情況下，您預測價格會上漲。這也被稱為「持多頭頭寸」。"
+
+msgid "In which country was your document issued?"
+msgstr "文件在哪個國家簽發？"
 
 msgid "In-depth knowledge of accounting principles, best practices, standards, and regulations"
 msgstr "深入瞭解會計原則、最佳慣例、標準和法規"
@@ -6605,7 +6617,7 @@ msgid "Investing or trading in contracts exposes the client to the performance o
 msgstr "合同投資或交易將客戶顯示在 Binary 合同所指的標的或參考工具或資產的效能中，包括外匯、股票指數和大宗商品，每一種都各有其自身的特點和風險。"
 
 msgid "Investment"
-msgstr ""
+msgstr "投資"
 
 msgid "Investment Income"
 msgstr "投資收入"
@@ -6693,6 +6705,9 @@ msgstr "存取本網站的客戶有責任確保其了解並完全遵守其本國
 
 msgid "It is the responsibility of each client to read and understand this legal notice and the terms and conditions (\"Terms\") pursuant to which an acquisition of financial contracts via this site is governed."
 msgstr "所有客戶都有責任閱讀並理解本法律通知，以及通過本網站買入金融合約需要遵循的條款和條件(「條款」)。"
+
+msgid "It looks like your identity document has expired. Please try again with a valid document."
+msgstr "您的身份證明文件似乎已過期。請用有效的文件重試。"
 
 msgid "It may be disconnected. <fallback>Try using your phone instead</fallback>."
 msgstr "可能沒連接。 <fallback>試試用您的手機</fallback>。"
@@ -6822,9 +6837,6 @@ msgstr "想放鬆時只需飛行很短的距離就能盡情探索美麗的海灘
 
 msgid "Kindly send a scan of a valid proof of address to %1support@binary.com%2"
 msgstr "請發送有效的地址證明掃描件至%1support@binary.com%2"
-
-msgid "Kindly send a scan of a valid proof of identity to %1support@binary.com%2"
-msgstr "請發送有效的身份證明掃描件至%1support@binary.com%2"
 
 msgid "Know how much you will win or lose before you purchase the contract."
 msgstr "購入合約交易前，您已知道贏或輸的金額。"
@@ -7960,6 +7972,9 @@ msgstr "馬來西亞Labuan新辦事處"
 msgid "New password"
 msgstr "新密碼"
 
+msgid "New proof of identity document needed"
+msgstr "需要新的身份證明文件"
+
 msgid "New to CFD trading? We explain a few basics that all CFD traders need to know before they start trading."
 msgstr "差價合約交易新手？開始交易前，我們為您提供一些所有差價合約交易者需要知道的基本知識。"
 
@@ -7974,6 +7989,9 @@ msgstr "下一頁"
 
 msgid "Next Available Price"
 msgstr "下一個可用價格"
+
+msgid "Next, we'll need your proof of address"
+msgstr "接下來，我們需要您的地址證明"
 
 msgid "No"
 msgstr "否"
@@ -8306,7 +8324,7 @@ msgid "Open a %1 account through DIEL's website %2"
 msgstr "在DIEL的網站 %2開立 %1 帳戶"
 
 msgid "Open a Financial Account"
-msgstr ""
+msgstr "開設金融帳戶"
 
 msgid "Open a Real Account"
 msgstr "開立真實帳戶"
@@ -8358,6 +8376,9 @@ msgstr "開盤價"
 
 msgid "Opens"
 msgstr "開盤"
+
+msgid "Options"
+msgstr "期權"
 
 msgid "Options that let you “look back” on the optimum high or low achieved by the market to determine the payout."
 msgstr "此選項讓你「回顧」市場達到的最高或最低價, 以確定賠付額。"
@@ -8899,6 +8920,9 @@ msgstr "請聯繫您的付款代理，以便驗證您的取款請求。"
 msgid "Please do not share your bank account, credit card, or e-wallet with another client, as this may cause delays in your withdrawals."
 msgstr "請不要與其他客戶共用您的銀行帳戶、信用卡或電子錢包, 因為這可能會導致您的取款延遲。"
 
+msgid "Please ensure all your personal details are the same as in your chosen document. If you wish to update your personal details, go to %1account settings%2."
+msgstr "請確保所有個人資訊與所選擇的文件相符。如果要更新個人資訊，請前往%1帳戶設定%2。"
+
 msgid "Please ensure that you have the Telegram app installed on your device."
 msgstr "請確保您的設備已安裝了電報應用程式。"
 
@@ -8919,6 +8943,9 @@ msgstr "請輸入日期，格式為日-月-年。"
 
 msgid "Please enter no more than %1 characters for both fields."
 msgstr "兩個欄位請輸入少於%1個字元。"
+
+msgid "Please enter the correct format. Example:"
+msgstr "請輸入正確的格式。例如:"
 
 msgid "Please enter your %1tax information%2 below to continue."
 msgstr "請在下方輸入您的 %1稅務資訊%2以繼續操作。"
@@ -8989,6 +9016,9 @@ msgstr "請選擇至少一個範圍"
 msgid "Please select the checkbox."
 msgstr "請選擇核取方塊。"
 
+msgid "Please select the country of document issuance"
+msgstr "請選擇文件簽發國"
+
 msgid "Please select the country where you are a tax resident. If you have any doubts, kindly consult your tax advisor."
 msgstr "請選擇您身為納稅居民的國家。如有任何疑問, 請諮詢您的稅務顧問。"
 
@@ -8997,6 +9027,9 @@ msgstr "請選擇此帳戶的幣種："
 
 msgid "Please select the date range of your statement:"
 msgstr "請選擇月結單的日期範圍:"
+
+msgid "Please select the document type and enter the document number."
+msgstr "請選擇文件類型及輸入文件號。"
 
 msgid "Please set %1country of residence%2 before upgrading to a real-money account."
 msgstr "升級到真實資金帳戶前請先設定%1居住國%2。"
@@ -9039,6 +9072,9 @@ msgstr "請重試"
 
 msgid "Please update your %1 to continue."
 msgstr "請更新%1以繼續操作。"
+
+msgid "Please upload your identity document."
+msgstr "請上傳身份證明文件。"
 
 msgid "Please wait for confirmation. Our customer support team will get back to you regarding your account status via email within four hours."
 msgstr "請等待確認。我們的客服團隊將於四小時內將帳戶狀態以電子郵件方式通知您。"
@@ -9524,7 +9560,7 @@ msgid "Real Estate"
 msgstr "房地產"
 
 msgid "Real Financial"
-msgstr ""
+msgstr "真實財務"
 
 msgid "Real Financial STP"
 msgstr "真實金融 STP"
@@ -10000,6 +10036,9 @@ msgstr "賣出價格"
 msgid "Sale of Property"
 msgstr "財產出售"
 
+msgid "Sample:"
+msgstr "樣本："
+
 msgid "Saturday"
 msgstr "星期六"
 
@@ -10214,7 +10253,7 @@ msgid "Server"
 msgstr "伺服器"
 
 msgid "Server maintenance starting 01:00 GMT every Sunday. This process may take up to 2 hours to complete. Service may be disrupted during this time."
-msgstr ""
+msgstr "伺服器維護每週日從格林尼治標準時間01:00開始。此過程最多可能需要2個小時才能完成。此期間內服務可能會中斷。"
 
 msgid "Server:"
 msgstr "伺服器:"
@@ -10631,7 +10670,7 @@ msgid "Straight rows of keys are easy to guess"
 msgstr "直線排列鍵很容易猜到"
 
 msgid "Strong  password contain at least 8 characters, combine uppercase and lowercase letters and numbers."
-msgstr ""
+msgstr "強密碼須至少8個字元，及包含大小寫字母和數字。"
 
 msgid "Strong analytical capabilities that have been proven in a prior capacity or a keen interest to move into this area"
 msgstr "經證明具優秀的問題分析能力或對進入本領域有濃厚興趣"
@@ -10719,6 +10758,9 @@ msgstr "提交下列文檔之一"
 
 msgid "Submit passport photo page"
 msgstr "提交含照片的護照頁面"
+
+msgid "Submit proof of address"
+msgstr "提交地址證明"
 
 msgid "Submit residence permit (back)"
 msgstr "提交居留證 （背面）"
@@ -13160,7 +13202,7 @@ msgid "Trade with leverage"
 msgstr "利用槓桿進行交易"
 
 msgid "Trade with real funds and access to competitive trading conditions."
-msgstr ""
+msgstr "用真實資金交易, 享受競爭力強的交易條件。"
 
 msgid "Trade with the industry pioneer and holder of a patented pricing technology."
 msgstr "通過擁有受專利保護的報價技術的業內領先企業進行交易。"
@@ -13201,9 +13243,6 @@ msgstr "您的帳戶已被禁交易和提款。請 %1聯繫客服部%2尋求幫�
 msgid "Trading binary options and CFDs can involve substantial risks. Do not trade with money you cannot afford to lose, and never trade with borrowed money. Learn about %1Responsible Trading%2."
 msgstr "二元期權和差價合約交易可能涉及重大風險。不要用您輸不起的錢來交易, 也不要用借來的錢交易。瞭解 %1負責任交易%2的詳情。"
 
-msgid "Trading binary options may not be suitable for everyone, so please ensure that you fully understand the risks involved. Your losses can exceed your initial deposit and you do not own or have any interest in the underlying asset."
-msgstr "二元期權交易並不適合所有人。因此，請確保您完全明白有關的風險。您的虧損可能會超越起始資金存款，而您並不擁有或占有任何標的資產。"
-
 msgid "Trading contracts for difference (CFDs) on Synthetic Indices may not be suitable for everyone. Please ensure that you fully understand the risks involved, including the possibility of losing all the funds in your MT5 account. Gambling can be addictive – please play responsibly."
 msgstr "差價合約 (CFD) 的綜合指數交易並不適合所有人。請確保您完全明白有關的風險。您的虧損可能會超越您 MT5 帳戶的所有資金。博彩活動可能會上癮，請提醒自己要承擔責任。"
 
@@ -13236,6 +13275,9 @@ msgstr "交易限制"
 
 msgid "Trading on %1 can become addictive. If you feel the need to exclude yourself from the website, please use the %2self-exclusion facilities%3."
 msgstr "透過 %1交易可能會上癮。如果您覺得有必要限制自己進入此網站, 請使用 %2自我禁止設施%3。"
+
+msgid "Trading options may not be suitable for everyone, so please ensure that you fully understand the risks involved."
+msgstr ""
 
 msgid "Trading platforms"
 msgstr "交易平台"
@@ -13615,6 +13657,9 @@ msgstr "從電腦上傳卡的正面"
 msgid "Upload front of license from your computer"
 msgstr "從電腦上傳執照的正面"
 
+msgid "Upload identity document"
+msgstr "上傳身份證明文件"
+
 msgid "Upload passport photo page"
 msgstr "上傳含照片的護照頁面"
 
@@ -13694,10 +13739,10 @@ msgid "Use their best endeavours to attract potential clients for Binary"
 msgstr "盡全力為Binary爭取潛能客戶"
 
 msgid "Use this password to grant viewing access to another user. While they may view your trading account, they will not be able to trade or take any other actions. Click Create or reset password, if this is your first investor password or if you've forgotten your password."
-msgstr ""
+msgstr "用此密碼給予其他使用者檢視權限。該使用者檢視您的交易帳戶時將無法交易或採取任何其他行動。如果這是您的首個投資者密碼或忘了密碼，請點選建立或重設密碼。"
 
 msgid "Use this password to log in to your MT5 accounts on the desktop, web, and mobile apps."
-msgstr ""
+msgstr "使用此密碼登入桌面、網絡和手機應用上的 MT5 帳戶."
 
 msgid "Use to the utmost benefit any possible additional features that some payment processors offer"
 msgstr "充分利用某些支付處理器提供的任何可用的附加功能"
@@ -13741,8 +13786,14 @@ msgstr "驗證碼錯誤。請使用以下連結發送到您的電子郵件。"
 msgid "Verification complete"
 msgstr "驗證完畢"
 
+msgid "Verification of document number failed"
+msgstr "文件號驗證已失敗"
+
 msgid "Verification required"
 msgstr "需要驗證"
+
+msgid "Verify"
+msgstr "驗證"
 
 msgid "Verify Identity"
 msgstr "身份驗證"
@@ -13754,6 +13805,9 @@ msgid "Verify and approve clients' deposit and withdrawal requests"
 msgstr "驗證和批准客戶的存款和取款請求"
 
 msgid "Verify identity"
+msgstr "身份驗證"
+
+msgid "Verify your identity"
 msgstr "身份驗證"
 
 msgid "Version 49. Last modified 23-11-2020."
@@ -13993,6 +14047,9 @@ msgstr "我們珍視積極的、可以共同努力、克服挑戰並實現共同
 msgid "We were unable to verify your document automatically. We will try to verify your document manually. Please check back in 1-3 days."
 msgstr "我們無法自動驗證您的文檔。我們將嘗試以手動方式驗證您的文檔。請1-3天內再查看一次。"
 
+msgid "We were unable to verify your identity based on the details you entered."
+msgstr "無法根據您輸入的資訊驗證身份。"
+
 msgid "We will continue to close open positions until your margin level becomes higher than the stop out level."
 msgstr "我們將繼續關閉未平倉合約，直到您的保證金額高於強制平倉數額。"
 
@@ -14010,6 +14067,12 @@ msgstr "我們很想聽聽你的意見。"
 
 msgid "We'll compare it with your document"
 msgstr "我們將把它與您的文檔比較"
+
+msgid "We'll process your details within a few minutes and notify its status via email."
+msgstr "將於數分鐘內處理您的資訊並將狀況以電子郵件通知您。"
+
+msgid "We'll process your details within a few minutes and notify its status via email. Next, we'll need your proof of address"
+msgstr "將於數分鐘內處理您的資訊並將狀況以電子郵件通知您。接下來，我們需要您的地址證明"
 
 msgid "We're almost there"
 msgstr "快全部就緒了"
@@ -14038,8 +14101,14 @@ msgstr "很遺憾您不再繼續使用。"
 msgid "We've grown in size over the years - both in terms of manpower and offices. We currently have over %1 employees across 10 offices in Malta, Dubai, Malaysia, Paraguay, Cyprus, Rwanda, and Belarus. Further growth in headcount is expected this year to cater to the increased demand in our products and services."
 msgstr "多年來，無論在人力和辦公室方面， 我們的規模不斷擴大。目前在馬爾他、杜拜、馬來西亞、巴拉圭、塞普勒斯、盧安達和白俄羅斯有十個辦事處和%1多名員工。預計今年的員工人數將進一步增長, 以滿足我們產品和服務需求的增加。"
 
+msgid "We've received your document number"
+msgstr "文件號收到了"
+
 msgid "We've sent a secure link to %{number}"
 msgstr "已傳送安全連結至%{number}"
+
+msgid "We've successfully verified your document number"
+msgstr "文件號已成功驗證"
 
 msgid "Web and software developer"
 msgstr "網路和軟體編程員"
@@ -14816,7 +14885,7 @@ msgid "You will not be able to change currency once you have made a deposit."
 msgstr "存款後將無法更改幣種."
 
 msgid "You will not be able to change your fiat account's currency after creating this MT5 account. Are you sure you want to proceed?"
-msgstr ""
+msgstr "開立此 MT5 帳戶後, 將無法更改法定帳戶的幣種。確定要繼續嗎？"
 
 msgid "You will not be able to change your fiat account's currency after making this deposit. Are you sure you want to proceed?"
 msgstr "存入此款項後, 將無法更改法定帳戶的幣種。確定要繼續嗎？"
@@ -14959,6 +15028,9 @@ msgstr "您的文件正在審查中，請於1-3天後再檢視。您還需提交
 msgid "Your document is being reviewed, please check back in 1-3 days. You must also submit a proof of identity."
 msgstr "您的文件正在審查中，請於1-3天後再檢視。您還需提交身份證明。"
 
+msgid "Your document number has been verified"
+msgstr "文件號已驗證"
+
 msgid "Your face is needed in the selfie"
 msgstr "自拍照片必須包括臉部"
 
@@ -15003,9 +15075,6 @@ msgstr "您的地址證明已成功提交"
 
 msgid "Your proof of identity has been verified successfully"
 msgstr "您的身份證明已通過驗證"
-
-msgid "Your proof of identity has expired"
-msgstr "您的身份證明已過期"
 
 msgid "Your proof of identity submission failed because:"
 msgstr "您提交的身份證明已失敗，因為："
@@ -15146,7 +15215,7 @@ msgid "deposit"
 msgstr "存款"
 
 msgid "deposit or create an MT5 account"
-msgstr ""
+msgstr "存款或開立MT5帳戶"
 
 msgid "details"
 msgstr "詳細資料"
