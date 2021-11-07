@@ -12,6 +12,8 @@ import GamingClosePopup from '../components/gaming_close_popup.jsx';
 import GameCloseBanner from '../components/game_close_banner.jsx';
 import GameCloseBannerIom from '../components/game_close_banner_iom.jsx';
 
+import RedirectPopup from '../components/EU_UK_redirect_popup.jsx';
+
 export const CONTENT_PLACEHOLDER = 'CONTENT_PLACEHOLDER';
 
 export const WithLayout = ({ children }) => {
@@ -64,6 +66,7 @@ const Layout = () => {
                 <LiveChat />
                 <GamingClosePopup />
                 <GamingClosePopupIom />
+                <RedirectPopup />
             </body>
         </html>
     );

@@ -10,7 +10,9 @@ import {
     TabContentContainer,
     TabsSubtabs,
     TabContent }            from  '../_common/components/tabs.jsx';
+// eslint-disable-next-line no-unused-vars
 import DerivBanner          from '../_common/components/deriv_banner.jsx';
+import RedirectBanner from '../_common/components/EU_UK_redirect_banner.jsx';
 
 const Arrows = ({ direction, parent }) => (
     <div className='align-self-center gr-1 gr-hide-p'>
@@ -167,7 +169,7 @@ const Home = () => {
     return (
         <React.Fragment>
             <div className='container'>
-                <DerivBanner has_margin />
+                <RedirectBanner />
             </div>
             <div id='banner'>
                 <div className='container gr-padding-20'>
