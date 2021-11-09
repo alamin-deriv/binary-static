@@ -1,4 +1,3 @@
-/* eslint-disable no-console */
 const getElementById = require('../../_common/common_functions').getElementById;
 const BinarySocket = require('../base/socket');
 const Client = require('../base/client');
