@@ -794,6 +794,10 @@
     .close_banner_text_wrapper {
         border-radius: 8px 0px 0px 8px !important;
     }
+    .banner_container {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 }
 @media (max-width: 700px) {
     .close_banner_text_wrapper h3 {
@@ -839,6 +843,10 @@
 @media (max-width: 506px) {
     .close_banner_btn p {
         min-width: 100px;
+    }
+    .banner_container {
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
 
