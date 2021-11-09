@@ -12,8 +12,8 @@ const RedirectBanner = ({ has_margin }) => (
                 className='close_banner_img'
             />
             <div className='close_banner_text_wrapper'>
-                <h3>Binary.com is moving to Deriv on 30 November</h3>
-                <p>Start using Deriv with your Binary.com email and password.</p>
+                <h3>{it.L('Binary.com is moving to Deriv on 30 November')}</h3>
+                <p>{it.L('Start using Deriv with your Binary.com email and password.')}</p>
             </div>
         </div>
         <a id='redirect-link'  target='_blank' rel='noopener noreferrer' href='#'  className='close_banner_btn'><p>{it.L('Trade on Deriv')}</p></a>
