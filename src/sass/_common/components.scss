@@ -531,6 +531,7 @@
 }
 
 .banner_container {
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     position: relative;
@@ -540,6 +541,8 @@
     padding-right: 0;
     padding-left: 0;
     margin-top: 30px;
+    max-width: 960px;
+    box-sizing: border-box;
 
     .close_banner_img {
         display: flex;

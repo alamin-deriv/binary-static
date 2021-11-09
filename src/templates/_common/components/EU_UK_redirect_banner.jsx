@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 const RedirectBanner = ({ has_margin }) => (
     <div
         id='redirect_banner_container'
-        className={`container banner_container invisible ${has_margin ? 'has_margin' : ''}`}
+        className={`banner_container invisible ${has_margin ? 'has_margin' : ''}`}
     >
         <div className='close_banner_text'>
             <img
