@@ -15,7 +15,7 @@ const DerivBanner = (() => {
 
         BinarySocket.wait('authorize', 'website_status', 'landing_company').then(() => {
 
-            if (!isEuCountry()) return;
+            if (isEuCountry()) return;
 
             if (!is_deriv_banner_dismissed) {
                 const affiliate_cookie = Cookies.getJSON('affiliate_tracking');
