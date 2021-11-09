@@ -11,8 +11,7 @@ import GamingClosePopupIom from '../components/gaming_close_popup_iom.jsx';
 import GamingClosePopup from '../components/gaming_close_popup.jsx';
 import GameCloseBanner from '../components/game_close_banner.jsx';
 import GameCloseBannerIom from '../components/game_close_banner_iom.jsx';
-
-import RedirectPopup from '../components/EU_UK_redirect_popup.jsx';
+import RedirectBanner from '../components/EU_UK_redirect_banner.jsx';
 
 export const CONTENT_PLACEHOLDER = 'CONTENT_PLACEHOLDER';
 
@@ -57,6 +56,7 @@ const Layout = () => {
                         <a href='javascript:;' id='scrollup' />
                         <GameCloseBanner />
                         <GameCloseBannerIom />
+                        <RedirectBanner />
                         <InnerContent />
                     </div>
                     <Footer />
@@ -66,7 +66,6 @@ const Layout = () => {
                 <LiveChat />
                 <GamingClosePopup />
                 <GamingClosePopupIom />
-                <RedirectPopup />
             </body>
         </html>
     );

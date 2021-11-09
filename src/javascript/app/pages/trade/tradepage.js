@@ -12,6 +12,7 @@ const Client            = require('../../base/client');
 const Header            = require('../../base/header');
 const BinarySocket      = require('../../base/socket');
 const DerivBanner       = require('../../common/deriv_banner');
+const RedirectBanner       = require('../../common/redirect_banner');
 const CloseBanner       = require('../../common/game_close_banner');
 const ClosePopup       = require('../../common/game_close_popup');
 const Guide             = require('../../common/guide');
@@ -35,6 +36,7 @@ const TradePage = (() => {
             } else {
                 DerivBanner.onLoad();
             }
+            RedirectBanner.onLoad();
         });
 
         BinarySocket.wait('authorize' , 'landing_company').then(() => {

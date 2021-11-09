@@ -16,7 +16,8 @@ const RedirectBanner = ({ has_margin }) => (
                 <p>Start using Deriv with your Binary.com email and password.</p>
             </div>
         </div>
-        <div id='redirect_banner_btn' className='close_banner_btn'><p>{it.L('Trade on Deriv')}</p></div>
+        <a id='redirect-link'  target='_blank' rel='noopener noreferrer' href='#'  className='close_banner_btn'><p>{it.L('Trade on Deriv')}</p></a>
+        
     </div>
 );
 

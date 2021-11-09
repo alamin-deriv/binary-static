@@ -9,7 +9,6 @@ const BinaryPjax     = require('../../app/base/binary_pjax');
 const BinarySocket   = require('../../app/base/socket');
 const DerivBanner    = require('../../app/common/deriv_banner');
 const RedirectBanner    = require('../../app/common/redirect_banner');
-const RedirectPopup    = require('../../app/common/redirect_popup');
 const FormManager    = require('../../app/common/form_manager');
 const getFormRequest = require('../../app/common/verify_email');
 const isBinaryApp    = require('../../config').isBinaryApp;
@@ -28,7 +27,6 @@ const Home = (() => {
 
             // we need to initiate selector after it becoming visible
             TabSelector.repositionSelector();
-            RedirectPopup.onLoad();
             const form_id = '#frm_verify_email';
             FormManager.init(form_id, getFormRequest());
             FormManager.handleSubmit({
