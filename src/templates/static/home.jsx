@@ -168,7 +168,7 @@ const Home = () => {
     return (
         <React.Fragment>
             <div className='container'>
-                <DerivBanner />
+                <DerivBanner has_margin />
             </div>
             <div id='banner'>
                 <div className='container gr-padding-20'>
