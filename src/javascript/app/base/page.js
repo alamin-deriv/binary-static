@@ -108,7 +108,6 @@ const Page = (() => {
             }
             Header.onLoad();
             Footer.onLoad();
-            RedirectBanner.onLoad();
             Language.setCookie();
             Menu.makeMobileMenu();
             Menu.makeMobileMenuOnResize();
