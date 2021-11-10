@@ -29,7 +29,7 @@ const RedirectBanner = (() => {
 
     const loginOnLoad = () => {
         BinarySocket.wait('authorize', 'website_status', 'landing_company').then(() => {
-            const client_account = Client.get('landing_company_shortcode') === 'maltainvest' || Client.get('landing_company_shortcode') === 'virtual';
+            const client_account = Client.get('landing_company_shortcode') === 'maltainvest';
             
             if (isEuCountry() && !isUKCountry() && client_account) {
 
