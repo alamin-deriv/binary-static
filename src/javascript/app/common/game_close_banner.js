@@ -12,6 +12,7 @@ const CloseBanner = (() => {
             const is_uk_residence = (Client.get('residence') === 'gb' || State.getResponse('website_status.clients_country') === 'gb');
             const is_iom_client = (Client.get('residence') === 'im' || State.getResponse('website_status.clients_country') === 'im');
             const client_account = Client.get('landing_company_shortcode') === 'malta' || Client.get('landing_company_shortcode') === 'iom';
+
             if (is_uk_residence && client_account) {
                 el_gaming_popup = getElementById('gaming-close-popup');
                 el_close_banner_container = getElementById('close_banner_container');
@@ -23,7 +24,6 @@ const CloseBanner = (() => {
                 el_close_banner_container.setVisibility(1);
                 el_learn_more = getElementById('close_banner_btn_iom');
             }
-            el_gaming_popup.setVisibility(0);
             el_learn_more.addEventListener('click', onShowPopup);
         });
 
