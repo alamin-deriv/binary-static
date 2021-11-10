@@ -44,13 +44,8 @@ const RedirectBanner = (() => {
         });
 
     };
-    const unLoaded = () => {
-        el_redirect_banner_container = getElementById('redirect_banner_container');
-        el_redirect_banner_container.setVisibility(0);
 
-    };
-
-    return { onLoad, loginOnLoad, unLoaded };
+    return { onLoad, loginOnLoad };
 
 })();
 
