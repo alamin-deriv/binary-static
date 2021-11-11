@@ -11,7 +11,7 @@ const CloseBanner = (() => {
         BinarySocket.wait('authorize', 'website_status', 'landing_company').then(() => {
             const is_uk_residence = (Client.get('residence') === 'gb' || State.getResponse('website_status.clients_country') === 'gb');
             const is_iom_client = (Client.get('residence') === 'im' || State.getResponse('website_status.clients_country') === 'im');
-            const client_account = Client.get('landing_company_shortcode') === 'malta' || Client.get('landing_company_shortcode') === 'iom';
+            const client_account = State.getResponse('landing_company.financial_company.shortcode') !== 'maltainvest';
 
             if (is_uk_residence && client_account) {
                 el_gaming_popup = getElementById('gaming-close-popup');

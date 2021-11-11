@@ -1,8 +1,8 @@
 const getElementById = require('../../_common/common_functions').getElementById;
 const BinarySocket = require('../base/socket');
-const Client = require('../base/client');
 const getLanguage       = require('../../_common/language').get;
 const isEuCountry   = require('../../app/common/country_base').isEuCountry;
+const State = require('../../_common/storage').State;
 
 const RedirectBanner = (() => {
 
@@ -28,7 +28,7 @@ const RedirectBanner = (() => {
 
     const loginOnLoad = () => {
         BinarySocket.wait('authorize', 'website_status', 'landing_company').then(() => {
-            const client_account = Client.get('landing_company_shortcode') === 'maltainvest' || Client.get('landing_company_shortcode') === 'virtual';
+            const client_account = State.getResponse('landing_company.financial_company.shortcode') === 'maltainvest';
             
             if (isEuCountry() && client_account) {
 
