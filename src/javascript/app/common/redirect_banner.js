@@ -1,9 +1,9 @@
 const getElementById = require('../../_common/common_functions').getElementById;
 const BinarySocket = require('../base/socket');
 const getLanguage       = require('../../_common/language').get;
-const isEuCountry   = require('../../app/common/country_base').isEuCountry;
 const State = require('../../_common/storage').State;
 const Client = require('../base/client');
+const isEuCountrySelected      = require('../../_common/utility').isEuCountrySelected;
 
 const RedirectBanner = (() => {
 
@@ -12,7 +12,8 @@ const RedirectBanner = (() => {
     const onLoad = () => {
         BinarySocket.wait('authorize', 'website_status', 'landing_company').then(() => {
 
-            if (isEuCountry()) {
+            const eu_country = isEuCountrySelected(Client.get('residence')) || isEuCountrySelected(State.getResponse('website_status.clients_country'));
+            if (eu_country) {
 
                 el_redirect_banner_container = getElementById('redirect_banner_container');
                 el_redirect_link = getElementById('redirect-link');
@@ -39,18 +40,23 @@ const RedirectBanner = (() => {
 
     const loginOnLoad = () => {
         BinarySocket.wait('authorize', 'website_status', 'landing_company').then(() => {
+            const eu_country = isEuCountrySelected(Client.get('residence')) || isEuCountrySelected(State.getResponse('website_status.clients_country'));
+
             const client_account = Client.get('landing_company_shortcode') === 'maltainvest';
             const virtual_account = Client.get('landing_company_shortcode') === 'virtual';
 
             const maltainvest = State.getResponse('authorize.account_list').filter(item => item.landing_company_name === 'maltainvest').length;
             const iom = State.getResponse('authorize.account_list').filter(item => item.landing_company_name === 'iom').length;
             const malta = State.getResponse('authorize.account_list').filter(item => item.landing_company_name === 'malta').length;
+
+            // eslint-disable-next-line no-console
+            console.log(Client.get('residence'), State.getResponse('website_status.clients_country'));
             
-            if (isEuCountry() && State.getResponse('authorize.account_list').length === 1) {
+            if (eu_country && State.getResponse('authorize.account_list').length === 1) {
                 showBanner();
-            } else if (isEuCountry() && virtual_account && maltainvest && !iom && !malta) {
+            } else if (eu_country && virtual_account && maltainvest && !iom && !malta) {
                 showBanner();
-            } else if (isEuCountry() && client_account) {
+            } else if (eu_country && client_account) {
                 showBanner();
             }
 

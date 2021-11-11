@@ -2,8 +2,10 @@ const Cookies        = require('js-cookie');
 const getElementById = require('../../_common/common_functions').getElementById;
 const createElement  = require('../../_common/utility').createElement;
 const getLanguage       = require('../../_common/language').get;
-const isEuCountry   = require('../../app/common/country_base').isEuCountry;
 const BinarySocket = require('../base/socket');
+const State = require('../../_common/storage').State;
+const Client = require('../base/client');
+const isEuCountrySelected      = require('../../_common/utility').isEuCountrySelected;
 
 const DerivBanner = (() => {
     let el_multiplier_banner_container,
@@ -15,7 +17,9 @@ const DerivBanner = (() => {
 
         BinarySocket.wait('authorize', 'website_status', 'landing_company').then(() => {
 
-            if (isEuCountry()) return;
+            const eu_country = isEuCountrySelected(Client.get('residence')) || isEuCountrySelected(State.getResponse('website_status.clients_country'));
+
+            if (eu_country) return;
 
             if (!is_deriv_banner_dismissed) {
                 const affiliate_cookie = Cookies.getJSON('affiliate_tracking');
