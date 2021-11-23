@@ -56,7 +56,9 @@ const RedirectBanner = (() => {
             } else if (eu_country && virtual_account && maltainvest && !iom && !malta) {
                 showBanner();
             } else if (eu_country && client_account) {
-                showBanner();
+
+                window.location.href = '/move-to-deriv';
+
             } else if (svg && virtual_account) {
                 DerivBanner.redBanner();
             }
