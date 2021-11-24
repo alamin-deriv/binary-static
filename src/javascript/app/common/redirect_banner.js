@@ -8,7 +8,7 @@ const isEuCountrySelected      = require('../../_common/utility').isEuCountrySel
 
 const RedirectBanner = (() => {
 
-    let el_redirect_banner_container, el_redirect_link, el_sign_out_redirect;
+    let el_redirect_banner_container, el_redirect_link;
 
     const onLoad = () => {
         BinarySocket.wait('authorize', 'website_status', 'landing_company').then(() => {
@@ -54,14 +54,8 @@ const RedirectBanner = (() => {
             if (eu_country && State.getResponse('authorize.account_list').length === 1) {
                 showBanner();
             } else if (eu_country && virtual_account && maltainvest && !iom && !malta) {
-                el_sign_out_redirect = getElementById('sign_out_redirect');
-                // eslint-disable-next-line no-console
-                el_sign_out_redirect.addEventListener('click', console.log('Sign out'));
                 window.location.href = '/move-to-deriv';
             } else if (eu_country && client_account) {
-                el_sign_out_redirect = getElementById('sign_out_redirect');
-                // eslint-disable-next-line no-console
-                el_sign_out_redirect.addEventListener('click', console.log('Sign out'));
                 window.location.href = '/move-to-deriv';
 
             } else if (svg && virtual_account) {
