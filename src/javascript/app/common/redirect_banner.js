@@ -55,11 +55,13 @@ const RedirectBanner = (() => {
                 showBanner();
             } else if (eu_country && virtual_account && maltainvest && !iom && !malta) {
                 el_sign_out_redirect = getElementById('sign_out_redirect');
-                el_sign_out_redirect.addEventListener('click', Client.sendLogoutRequest());
+                // eslint-disable-next-line no-console
+                el_sign_out_redirect.addEventListener('click', console.log('Sign out'));
                 window.location.href = '/move-to-deriv';
             } else if (eu_country && client_account) {
                 el_sign_out_redirect = getElementById('sign_out_redirect');
-                el_sign_out_redirect.addEventListener('click', Client.sendLogoutRequest());
+                // eslint-disable-next-line no-console
+                el_sign_out_redirect.addEventListener('click', console.log('Sign out'));
                 window.location.href = '/move-to-deriv';
 
             } else if (svg && virtual_account) {
