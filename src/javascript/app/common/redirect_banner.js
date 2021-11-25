@@ -29,6 +29,24 @@ const RedirectBanner = (() => {
 
     };
 
+    const handleRedirect = () => {
+
+        const landing_page_redirect = localStorage.getItem('landing_page_redirect');
+
+        if (landing_page_redirect === 'yes') {
+            window.location.href = '/move-to-deriv/';
+        } else {
+            el_redirect_banner_container = getElementById('redirect_banner_container');
+            el_redirect_link = getElementById('redirect-link');
+            el_redirect_banner_container.setVisibility(1);
+            const lang = getLanguage().toLowerCase();
+            const multiplier_href = `https://deriv.com/${lang}/`;
+
+            el_redirect_link.href = multiplier_href;
+        }
+  
+    };
+
     const loginOnLoad = () => {
         BinarySocket.wait('authorize', 'website_status', 'landing_company').then(() => {
             const eu_country = isEuCountrySelected(Client.get('residence')) || isEuCountrySelected(State.getResponse('website_status.clients_country'));
@@ -42,12 +60,11 @@ const RedirectBanner = (() => {
             const svg = State.getResponse('authorize.account_list').filter(item => item.landing_company_name === 'svg').length;
             
             if (eu_country && State.getResponse('authorize.account_list').length === 1) {
-                window.location.href = '/move-to-deriv/';
+                handleRedirect();
             } else if (eu_country && virtual_account && maltainvest && !iom && !malta) {
-                window.location.href = '/move-to-deriv/';
+                handleRedirect();
             } else if (eu_country && client_account) {
-                window.location.href = '/move-to-deriv/';
-
+                handleRedirect();
             } else if (svg && virtual_account) {
                 DerivBanner.redBanner();
             }
