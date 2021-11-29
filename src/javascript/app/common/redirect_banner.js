@@ -30,21 +30,7 @@ const RedirectBanner = (() => {
     };
 
     const handleRedirect = () => {
-
-        const landing_page_redirect = localStorage.getItem('landing_page_redirect');
-
-        if (landing_page_redirect === 'yes') {
-            window.location.href = '/move-to-deriv/';
-        } else {
-            el_redirect_banner_container = getElementById('redirect_banner_container');
-            el_redirect_link = getElementById('redirect-link');
-            el_redirect_banner_container.setVisibility(1);
-            const lang = getLanguage().toLowerCase();
-            const multiplier_href = `https://deriv.com/${lang}/`;
-
-            el_redirect_link.href = multiplier_href;
-        }
-  
+        window.location.href = '/move-to-deriv/';
     };
 
     const loginOnLoad = () => {
