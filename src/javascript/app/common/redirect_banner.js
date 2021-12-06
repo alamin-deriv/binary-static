@@ -45,12 +45,12 @@ const RedirectBanner = (() => {
             
             if (eu_country && State.getResponse('authorize.account_list').length === 1) {
                 handleRedirect();
-            } else if (eu_country && virtual_account) {
-                handleRedirect();
-            } else if (eu_country && client_account) {
-                handleRedirect();
             } else if (svg && virtual_account) {
                 DerivBanner.redBanner();
+            } else if (eu_country && client_account) {
+                handleRedirect();
+            } else if (eu_country && virtual_account) {
+                handleRedirect();
             }
 
         });
