@@ -37,7 +37,7 @@ const RedirectBanner = (() => {
         BinarySocket.wait('authorize', 'website_status', 'landing_company').then(() => {
             const eu_country = isEuCountrySelected(Client.get('residence')) || isEuCountrySelected(State.getResponse('website_status.clients_country'));
 
-            const client_account = Client.get('landing_company_shortcode') === 'maltainvest';
+            const client_account = Client.get('landing_company_shortcode') === 'maltainvest' || Client.get('landing_company_shortcode') === 'iom' || Client.get('landing_company_shortcode') === 'malta';
             const virtual_account = Client.get('landing_company_shortcode') === 'virtual';
 
             const maltainvest = State.getResponse('authorize.account_list').filter(item => item.landing_company_name === 'maltainvest').length;
