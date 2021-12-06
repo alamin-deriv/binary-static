@@ -36,18 +36,16 @@ const RedirectBanner = (() => {
     const loginOnLoad = () => {
         BinarySocket.wait('authorize', 'website_status', 'landing_company').then(() => {
             const eu_country = isEuCountrySelected(Client.get('residence')) || isEuCountrySelected(State.getResponse('website_status.clients_country'));
+            const landing_company_shortcode = Client.get('landing_company_shortcode');
 
-            const client_account = Client.get('landing_company_shortcode') === 'maltainvest' || Client.get('landing_company_shortcode') === 'iom' || Client.get('landing_company_shortcode') === 'malta';
-            const virtual_account = Client.get('landing_company_shortcode') === 'virtual';
+            const client_account = ['maltainvest', 'iom', 'malta'].includes(landing_company_shortcode);
+            const virtual_account = landing_company_shortcode === 'virtual';
 
-            const maltainvest = State.getResponse('authorize.account_list').filter(item => item.landing_company_name === 'maltainvest').length;
-            const iom = State.getResponse('authorize.account_list').filter(item => item.landing_company_name === 'iom').length;
-            const malta = State.getResponse('authorize.account_list').filter(item => item.landing_company_name === 'malta').length;
             const svg = State.getResponse('authorize.account_list').filter(item => item.landing_company_name === 'svg').length;
             
             if (eu_country && State.getResponse('authorize.account_list').length === 1) {
                 handleRedirect();
-            } else if (eu_country && virtual_account && maltainvest && !iom && !malta) {
+            } else if (eu_country && virtual_account) {
                 handleRedirect();
             } else if (eu_country && client_account) {
                 handleRedirect();
