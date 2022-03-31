@@ -972,8 +972,6 @@ const MetaTraderUI = (() => {
         if (/(real|demo)/.test(selected_acc_type) && num_servers.supported === num_servers.used + num_servers.disabled) {
             disableButtonLink('.btn-next');
             $form.find('.step-2 #rbtn_gaming_financial').addClass('existed');
-            $form.find('.step-2 #rbtn_financial_financial').addClass('existed');
-            $form.find('.step-2 #rbtn_financial_financial_stp').addClass('existed');
         }
     };
 
